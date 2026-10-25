@@ -95,6 +95,9 @@ class Lines:
         if not clean and cat == 'roast':   # R-rated default: favor the filthy ones a little
             pool = pool + [l for l in pool if l['mode'] == 'vulgar']
         fresh = [l for l in pool if l['id'] not in self.recent] or pool
+        voiced = [l for l in fresh if l['id'] in self.dur.get(pet, {})]
+        if voiced and len(voiced) < len(fresh) and random.random() < 0.75:
+            fresh = voiced   # while some lines are still pending (text-only), lean on the voiced ones
         l = random.choice(fresh)
         self.recent.append(l['id'])
         return l
@@ -403,8 +406,10 @@ class Pet(QWidget):
         played = False
         if not self.s['muted']:
             played = self.player.play(os.path.join(APP_DIR, 'voice', self.s['pet'], line['id'] + '.ogg'), self.s.get('volume', 1.0))
-        if not played:
+        if not played:   # muted, or a line not voiced yet (pending): text-only bubble
             d = max(2.5, len(line['text'].split()) * 0.30)
+        if os.environ.get('RIMECLAW_DEBUG'):
+            print('say', cat, line['id'], 'audio' if played else 'text-only', round(d, 1), flush=True)
         self.speak_text = line['text']; self.speak_start = self.now(); self.speak_len = d
         self.speaking_until = self.now() + d + 1.6 + len(line['text']) * 0.004
         if self.bubble:

@@ -42,6 +42,14 @@ python3 build_lines.py
 python3 render.py
 ```
 
-`render.py` needs edge-tts or Kokoro.
+**Voices.** Rimeclaw speaks with the ElevenLabs voice **Final Boss** (`eleven_v4`). Skarn the goblin uses edge-tts (`en-US-EricNeural`).
+
+Not every dragon line is voiced yet. A line without a Final Boss clip shows as a text-only speech bubble; it never falls back to another voice. These lines are listed under `"pending"` in `app/voice/dragon/index.json`.
+
+To voice the pending lines later:
+- **Manual:** drop ElevenLabs clips named `<line id>.wav` or `.mp3` into `tools/cache/el/d3qrd1ge6zWDvUxIeXiH/` and run `python3 render.py dragon`.
+- **Automatic:** run `ELEVENLABS_API_KEY=... PENDING=1 python3 render.py dragon`. This uses ElevenLabs credits, and it stops cleanly if it hits a quota or auth error.
+
+`FORCE=1` re-runs post-processing on every line that has audio. The steps are silence trim, 70 Hz high-pass, light 2:1 compression and 2-pass loudnorm to -16 LUFS, with no reverb. The goblin needs edge-tts.
 
 All jokes are original. The conspiracy rants are comedy, not claims of fact.
