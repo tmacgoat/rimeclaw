@@ -1,0 +1,10 @@
+{
+ "pet": "dragon",
+ "muted": false,
+ "clean": false,
+ "freq_min": 7,
+ "size": 140,
+ "rant_share": 0.25,
+ "reactions": true,
+ "volume": 1.0
+}

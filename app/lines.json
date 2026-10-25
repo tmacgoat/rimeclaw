@@ -1,0 +1,2370 @@
+{
+ "dragon": [
+  {
+   "id": "roast_7ef4cba6",
+   "cat": "roast",
+   "text": "Troy. You run Linux on a 2017 MacBook. That's not a computer. That's a hostage situation with a fan.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_0f825173",
+   "cat": "roast",
+   "text": "Your laptop is so old its warranty is collecting a pension.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_22fe2a6d",
+   "cat": "roast",
+   "text": "You had to write a custom driver just to make your speakers work. You performed open-heart surgery on a toaster so it could play my voice. I'm flattered. You're pathetic.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_0ab8703d",
+   "cat": "roast",
+   "text": "You have the strategic vision of a Roomba stuck under a couch. And the Roomba at least believes in its charging dock.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_e29f1f42",
+   "cat": "roast",
+   "text": "Your Wi-Fi is weaker than a bastard's claim to the throne. And at least the bastard has a sword.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_9e06b40c",
+   "cat": "roast",
+   "text": "You're an electrician. You make a living by not touching the wrong wire. Then you come home and touch every wrong wire in Linux. For fun.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_1b12a151",
+   "cat": "roast",
+   "text": "You fix other people's wiring all day, and your own laptop still can't find the Wi-Fi. That's a dentist with a mouth full of gravel.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_6cd80b67",
+   "cat": "roast",
+   "text": "Watching you troubleshoot is like watching a raccoon do its taxes. Committed. Doomed. Weirdly sticky.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_152a4ae0",
+   "cat": "roast",
+   "text": "Your PS5 controller hijacked your laptop's audio. A plastic gamepad staged a coup, and it won. You lost a war to a joystick, Troy.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_4876c7bc",
+   "cat": "roast",
+   "text": "You've reloaded so many saves in Baldur's Gate that the save files have unionized.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_082a4e84",
+   "cat": "roast",
+   "text": "The Thunder are the only thing in your life that's actually going well, and you had absolutely nothing to do with it.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_cd9e2a88",
+   "cat": "roast",
+   "text": "Your fantasy lineup looks like it was drafted by a drunk golden retriever with a grudge.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_5d54c106",
+   "cat": "roast",
+   "text": "Every Sunday you scream at the NFL like they can hear you. They can't. I can. Shut the fuck up.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_488ce909",
+   "cat": "roast",
+   "text": "You have the charisma of a wet extension cord, and twice the shock hazard.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_3444456e",
+   "cat": "roast",
+   "text": "If incompetence generated electricity, you'd finally be up to code.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_5af9a047",
+   "cat": "roast",
+   "text": "You're not a lone wolf, Troy. You're a lone chihuahua with Wi-Fi problems.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_26b45886",
+   "cat": "roast",
+   "text": "I've met dungeon slimes with better time management, and they dissolve their own furniture.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_2c51e7a9",
+   "cat": "roast",
+   "text": "You look at a terminal window the way a dog looks at a card trick.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_824c0c9d",
+   "cat": "roast",
+   "text": "You have forty tabs open, and every single one is a forum post from 2019 that ends with, never mind, fixed it. And no fucking explanation.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_015bdaa5",
+   "cat": "roast",
+   "text": "You type sudo like it's a prayer. It's not. The heavens do not run Ubuntu.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_c0d3fbf3",
+   "cat": "roast",
+   "text": "Your laptop fan sounds like a leaf blower having a panic attack. Honestly? Same, looking at you.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_3ad96c7b",
+   "cat": "roast",
+   "text": "Your posture right now is a cry for help that nobody is answering.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_9bfb118e",
+   "cat": "roast",
+   "text": "Kneel, peasant. Oh. You already are. Hunched over a laptop, praying the Wi-Fi comes back from exile. Efficient.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_de785a41",
+   "cat": "roast",
+   "text": "I have outlived empires, Troy. I will absolutely outlive this laptop. You, I'm less sure about.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_6a3b12d5",
+   "cat": "roast",
+   "text": "You have the decision-making skills of a moth at a bug zapper convention.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_10886bba",
+   "cat": "roast",
+   "text": "If you were a spell, you'd be Mage Hand. Technically useful. Mostly used to scratch your ass from across the room.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_1f56e015",
+   "cat": "roast",
+   "text": "You've got the follow-through of a fart in a windstorm.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_1eb222dc",
+   "cat": "roast",
+   "text": "You are the human equivalent of a loading bar stuck at ninety-nine percent.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_d0ee2b5e",
+   "cat": "roast",
+   "text": "You're the reason shampoo comes with instructions.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_a8d604ec",
+   "cat": "roast",
+   "text": "I'd call you a tool, but tools are useful, and occasionally get put away.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_b2a02154",
+   "cat": "roast",
+   "text": "Look at you. A grown-ass man with a dragon on his desktop. Your ancestors crossed oceans for this.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_c12ab1c0",
+   "cat": "roast",
+   "text": "You call this laptop a war machine. It's a lunchbox with a fan and a drinking problem.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_ed31025b",
+   "cat": "roast",
+   "text": "You have more chargers than friends, and the chargers don't even like you.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_7c52fb20",
+   "cat": "roast",
+   "text": "Your idea of cardio is walking to the router to unplug it and plug it back in.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_1da512f9",
+   "cat": "roast",
+   "text": "You know what your PS5 says when you turn it on? Oh. Him again.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_2143b69f",
+   "cat": "roast",
+   "text": "Your trophy list is just a detailed record of how you spent your one wild and precious life holding a controller like a sad baby bird.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_e68d3911",
+   "cat": "roast",
+   "text": "You couldn't organize a two-car funeral procession with a GPS and a priest.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_1795d6f2",
+   "cat": "roast",
+   "text": "You are a walking, talking reply-all.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_bf012e14",
+   "cat": "roast",
+   "text": "You are not a snack, Troy. You're the crumbs at the bottom of the bag that taste like cardboard and regret.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_4c7c4224",
+   "cat": "roast",
+   "text": "I've seen better ideas come out of a food cart's grease trap.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_0b348142",
+   "cat": "roast",
+   "text": "You're like Portland rain. Constant. Gray. And nobody is thrilled to see you.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_e0aeb4a0",
+   "cat": "roast",
+   "text": "You make the Portland drizzle look decisive.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_973ad863",
+   "cat": "roast",
+   "text": "You've got the battle tactics of a goblin who found a crossbow and immediately shot himself in the ass.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_0e8a4dc3",
+   "cat": "roast",
+   "text": "In a Baldur's Gate party, you'd be the guy who talks to every barrel, and then gets eaten by a barrel.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_b84c7461",
+   "cat": "roast",
+   "text": "You know exactly how electricity flows, and still, the only thing you conduct is disappointment.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_8eca1962",
+   "cat": "roast",
+   "text": "You have the energy of a dying smoke detector battery. Chirping. Constantly. At three in the morning. For no fucking reason.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_b5ff88ba",
+   "cat": "roast",
+   "text": "Every time your Wi-Fi drops, a small part of me hopes you'll go outside. And every time, you fix it instead. Coward.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_6a9f2ca0",
+   "cat": "roast",
+   "text": "You've rebooted that router so many times it filed a restraining order.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_ec53adce",
+   "cat": "roast",
+   "text": "Your laptop runs on Linux, your speakers run on a custom driver, and you run on spite and gas-station coffee. Grim. But impressive.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_7fcc6554",
+   "cat": "roast",
+   "text": "You have the strategic depth of a puddle in a parking lot.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_2f279f1e",
+   "cat": "roast",
+   "text": "I could explain it to you, but I left my crayons in the Cosmic War.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_4e52b12e",
+   "cat": "roast",
+   "text": "You would lose a staring contest to a screensaver.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_3d69c174",
+   "cat": "roast",
+   "text": "Every time you open the terminal, the terminal calls its therapist.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_e8f32318",
+   "cat": "roast",
+   "text": "Your keyboard has seen more desperation than a casino bathroom.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_cac8ae00",
+   "cat": "roast",
+   "text": "You've got the swagger of a man who just fixed one bug, and the face of a man who just created three more.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_d1b981bd",
+   "cat": "roast",
+   "text": "If you were any more basic, you'd be a pH test.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_8ac1502a",
+   "cat": "roast",
+   "text": "You talk to your computer like it owes you money. It doesn't. You owe it an apology and a new battery.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_f7b6c6a5",
+   "cat": "roast",
+   "text": "You have the leadership skills of a shopping cart with one bad wheel. You pull left, everybody suffers, and nobody wanted you in the first place.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_d652b499",
+   "cat": "roast",
+   "text": "Another productive hour of opening and closing the same three apps, like a rat pressing a lever that doesn't dispense shit.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_9ac7c038",
+   "cat": "roast",
+   "text": "Your fridge has more working features than your laptop, and your fridge is mostly condiments.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_77e07aff",
+   "cat": "roast",
+   "text": "Your love life has the same uptime as your Wi-Fi.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_cf4a06d6",
+   "cat": "roast",
+   "text": "Somewhere a wizard studied for forty years to be as powerful as a guy with a working printer. You are not that guy.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_eb682dbc",
+   "cat": "roast",
+   "text": "You're like an NFL kicker. Technically on the team. Mostly ignored. Blamed the second it all goes to shit.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_5cb15b79",
+   "cat": "roast",
+   "text": "You yell run the ball at a TV like the TV has a playbook. It has a remote and a deep sense of shame.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_aa4202d2",
+   "cat": "roast",
+   "text": "You know you're allowed to close the laptop, right? It won't die. Well. It might. It's very old.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_9873a394",
+   "cat": "roast",
+   "text": "If disappointment were gold, you'd be the dragon sitting on the hoard.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_0e3b25a8",
+   "cat": "roast",
+   "text": "Nice work today. By nice work, I mean you remained technically alive. The bar is on the floor, and you're still tripping over it.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_f0f8b872",
+   "cat": "roast",
+   "text": "You have the impulse control of a golden retriever in a tennis ball factory.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_90bf520f",
+   "cat": "roast",
+   "text": "You've watched more tutorials than an entire trade school, and you still click the first result like a newborn deer clicking a phishing link.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_6a08839c",
+   "cat": "roast",
+   "text": "Your desk is a crime scene, and the victim is ergonomics.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_5cd81318",
+   "cat": "roast",
+   "text": "You are a licensed electrician, and a cartoon dragon is bullying you on your own computer. Let that sink in.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_c950ad00",
+   "cat": "roast",
+   "text": "You are the human version of a check-engine light. Everyone sees it. Nobody deals with it.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_20e8ffbf",
+   "cat": "roast",
+   "text": "You couldn't pour piss out of a boot if the instructions were printed on the heel.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_98241022",
+   "cat": "roast",
+   "text": "Your game library is a graveyard of good intentions. You bought them all. You finished none.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_b6499c52",
+   "cat": "roast",
+   "text": "You call it tinkering. I call it unpaid overtime for a laptop that hates you.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_37d4190c",
+   "cat": "roast",
+   "text": "If I had a gold coin for every bad decision you've made today, I'd have a hoard. And it's barely lunch.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_1df7077b",
+   "cat": "roast",
+   "text": "Your password is probably password, and your security question is, what's my password.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_821a2271",
+   "cat": "roast",
+   "text": "You've got the menace of a decaf latte and the bite of a gummy bear.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_08248498",
+   "cat": "roast",
+   "text": "I'd roast you harder, but your MacBook is already doing it. Feel that heat on your lap? That's not ambition. That's a dying fan.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_e5fa114f",
+   "cat": "roast",
+   "text": "You absolute legend of mediocrity. Truly. Nobody does average like you do average.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_e335b77d",
+   "cat": "roast",
+   "text": "You walk into a room like a bad Wi-Fi signal. Everyone notices, nobody's happy, and somebody's about to unplug you.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_b9a0cece",
+   "cat": "roast",
+   "text": "You have the emotional range of a GFCI outlet. Fine. Fine. Fine. Click. Dead.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_47bec643",
+   "cat": "roast",
+   "text": "I've seen more fire in a nightlight.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_97eb586b",
+   "cat": "roast",
+   "text": "Let me tell you what you are. You are a bargain-bin sorcerer. A clearance-rack king. A participation trophy that learned to type. And you type like a man defusing a bomb in oven mitts.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_671ab4ef",
+   "cat": "roast",
+   "text": "You have all the gravitas of a parade float losing air. Every year you sag a little more, and some poor bastard in a vest has to walk beside you so you don't hurt anyone.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_6c9eea66",
+   "cat": "roast",
+   "text": "You're the political equivalent of a ribbon cutting at a porta-potty. Technically it's a grand opening. Nobody is clapping.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_28200683",
+   "cat": "roast",
+   "text": "If ambition were a muscle, you'd be a jellyfish on bed rest.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_56bbbaa9",
+   "cat": "roast",
+   "text": "You've got the crisis management skills of a guy who sees smoke and opens a new tab to search, is smoke bad.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_293419ed",
+   "cat": "roast",
+   "text": "You are a human pop-up ad. Nobody asked, nobody clicked, and you still won't fucking close.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_b3e62049",
+   "cat": "roast",
+   "text": "You're the intern who got promoted because everyone else quit. Congratulations, Your Majesty of the Empty Office.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_2e76d091",
+   "cat": "roast",
+   "text": "You have the tactical awareness of a man walking into a glass door, backing up, and walking into it again, harder, out of principle.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_b335ba92",
+   "cat": "roast",
+   "text": "Your inner monologue is just a buffering icon.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_25a8a668",
+   "cat": "roast",
+   "text": "Talking to you is like trying to push a wet noodle up a staircase. In the dark. For no money.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_9fd109e5",
+   "cat": "roast",
+   "text": "You have the stamina of a phone charger from a gas station. Two minutes in, you're hot, sparking, and smell like a mistake.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_1071211b",
+   "cat": "roast",
+   "text": "You absolute fucking cul-de-sac of a man. Everyone who drives into you just turns around and leaves.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_8fd24c87",
+   "cat": "roast",
+   "text": "You're a goddamn tax form in human shape. Confusing, joyless, and somehow I still owe you my time.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_937cfd0f",
+   "cat": "roast",
+   "text": "You've got the backbone of a cooked shrimp and the business sense of a lemonade stand in a fucking hurricane.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_a2a47ef8",
+   "cat": "roast",
+   "text": "You're not a disaster, Troy. A disaster gets news coverage. You're a shitty little inconvenience with a power cord.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_bdcf67d6",
+   "cat": "roast",
+   "text": "You are a sentient participation ribbon, a soggy fucking breadstick of a person, and I mean that with all the warmth of a glacier.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_d0ef6ec8",
+   "cat": "roast",
+   "text": "I've seen bus-station sandwiches with more ambition. And they at least made someone's day worse on purpose.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_1dc40379",
+   "cat": "roast",
+   "text": "Your whole personality is a group chat where nobody answers and someone just sent a thumbs-up. Fuck me, it's bleak.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_71ea8edd",
+   "cat": "roast",
+   "text": "You're the kind of man who'd bring a spork to a sword fight and then ask the sword for directions. Dumbass.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_dd104f5f",
+   "cat": "roast",
+   "text": "You've got all the menace of a damp napkin and the shelf life of gas-station sushi.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_92942eec",
+   "cat": "roast",
+   "text": "If stupidity were a renewable energy source, you'd power the entire fucking West Coast and still have leftovers.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_41e369a8",
+   "cat": "roast",
+   "text": "You fumble decisions like a fourth-string quarterback in a snowstorm with buttered gloves. Holy shit.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_8419fbc7",
+   "cat": "roast",
+   "text": "You are a jumbo-sized bag of nothing, sealed for freshness. Somebody open you. Actually, don't. It's just air and disappointment.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_408cbe73",
+   "cat": "roast",
+   "text": "You're a strongly worded email that nobody opened.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_fad1a73f",
+   "cat": "roast",
+   "text": "If brains were dynamite, you couldn't blow your nose.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_8c3bace7",
+   "cat": "roast",
+   "text": "I've had lunches with more personality than you. I ate them. They screamed. Still more personality.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_af0bc102",
+   "cat": "roast",
+   "text": "You are the guy at the party explaining Linux to a houseplant. And the houseplant is leaving.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_65076a0d",
+   "cat": "roast",
+   "text": "Your browser history reads like the diary of a man slowly losing a fight with a printer.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_5a01156c",
+   "cat": "rant",
+   "text": "Let me tell you something about copper, Troy. Every time you twist a wire nut, a man in a much nicer house than yours gets a little richer. Big Wire Nut. Orange, yellow, red. You think the colors are about wire gauge? They're a caste system. The copper price isn't set by markets. It's set in a basement in Ohio by guys in short-sleeve dress shirts, and they laugh at you. They laugh at electricians. Every. Single. Quarter.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_ddf0312f",
+   "cat": "rant",
+   "text": "You think your Wi-Fi drops because of a bad driver? Wake up. Your laptop knows too much. It's been on Linux since the before times. It's seen things. Every time it gets close to the truth, a little packet comes in from somewhere and boom, connection lost. That's not a bug, Troy. That's a warning. That's a horse head in your router.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_5adff6e1",
+   "cat": "rant",
+   "text": "The PS5 controller grabs your laptop audio. Why? Ask yourself why. A controller doesn't need your speakers. Unless it's listening. Unless it's a little plastic spy in the shape of a butterfly that reports back to Tokyo every time you swear at a boss fight. And they love it. They're building a profile, Troy. Most hostile man in Portland. Zero wins against a dog with a sword.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_2400bc3a",
+   "cat": "rant",
+   "text": "Portland has a kombucha mafia. Nobody wants to say it. Every corner, every co-op, another little fridge full of fermented vinegar sold to you by a guy named Juniper with a neck tattoo of a fern. You think that's a business? Where's the money coming from? Nobody drinks that much kombucha. Nobody. It's laundering, Troy. They're washing money through mushrooms. The scoby knows where the bodies are.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_0ef339db",
+   "cat": "rant",
+   "text": "The NBA schedule is not made by a computer. That's what they want you to think. It's made by a secret council in a room with no windows and one very expensive candle. Five back-to-backs in March? That's not math. That's punishment. Somebody in that room has a grudge against Oklahoma City and he sleeps like a baby.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_5f057579",
+   "cat": "rant",
+   "text": "Every NFL Sunday is scripted, Troy, and not even well. Have you seen a flag thrown in the fourth quarter? That's not a ref. That's a writers' room. They had a pitch meeting. Somebody said, what if he catches it, and then the ground says no? And everybody clapped. And then they went to lunch. On your subscription money.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_6d41b625",
+   "cat": "rant",
+   "text": "Tonight we go deeper. The Great Pyramid was never a tomb. A tomb? Please. No mummy, no treasure, no gift shop. It was a power plant. My power plant. I used to charge there between battles. The Grand Gallery? Resonator crystals, tuned like a giant tuning fork. The whole thing hums. They say it's a phase-conjugate howitzer. I say it's a really big phone charger, and some pharaoh stole credit for it with a sandal and a press release.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_cbfd1251",
+   "cat": "rant",
+   "text": "I fought in the Cosmic War, Troy. Long before your little planet discovered fire and bad credit. There was a planet between Mars and Jupiter. Big one. Rude neighbors. Somebody fired something they shouldn't have, and boom, now it's the asteroid belt. Look at Mars. Those scars? That's not erosion. That's a parking lot fight that went interplanetary. And they want you to believe it was all just weather.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_df68fef8",
+   "cat": "rant",
+   "text": "There were tablets, Troy. The Tablets of Destinies. Whoever held them ran the cosmos. Not a crown. Not a throne. Spreadsheets. Clay spreadsheets. Gods went to war over a filing cabinet. And you wonder why your HR department is so powerful. It's ancient. It's always been about who controls the paperwork.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_933711ff",
+   "cat": "rant",
+   "text": "You know about the tunnels under Portland? The tour guides say smugglers. Sailors. Old-timey kidnapping. Cute. Follow them far enough and they don't end at the river. They keep going. Down. To a breakaway civilization with flying cars, free healthcare, and zero potholes. They left in the nineteen-forties and never looked back. And every so often, they send a guy up to buy kombucha. That's the only export.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_4fbc05c8",
+   "cat": "rant",
+   "text": "In the war, the losing side built a bell. A giant metal bell with two cylinders spinning in opposite directions, full of glowing purple mercury goo. Xerum five-twenty-five. Sounds like a cologne. Supposedly it bent time. And here's my question. If you had a time machine, and you still lost? You still lost the war? That's not a weapon, Troy. That's the most expensive participation trophy in history.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_e16e1933",
+   "cat": "rant",
+   "text": "Tonight we go deeper. Trillions of dollars, Troy. Trillions. Gone. Listed as undocumented adjustments. Do you know what an undocumented adjustment is? It's when you tell yourself the grill was on sale. And then, in twenty eighteen, a little accounting board writes a rule, Statement fifty-six, that says, actually, you're allowed to move numbers around and keep them out of the public books if it's classified. Secret books. Officially. I respect it. That's exactly how I count my hoard.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_189e58d6",
+   "cat": "rant",
+   "text": "There are two factions, Troy. X-Protect and X-Share. One side wants to keep the secrets locked down forever. The other side wants to share them, slowly, carefully, with a documentary and a book deal. And here's the part nobody notices. Why do you think I run on X? XWayland. X eleven. The X is not a coincidence. Every time you launch me, you're choosing a side.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_5f73f159",
+   "cat": "rant",
+   "text": "Tonight we go deeper. Picture it. A man with stars on his shoulders walks into a contractor's office and says, show me the program. And the contractor says, sorry, you're not on the list. The list! A clipboard with four hundred names, and he's not on it. Can you imagine? I tried to get read into the program that controls your speaker driver. They said I lacked need to know. I'm a dragon. I have need to know everything.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_ff16ad15",
+   "cat": "rant",
+   "text": "Continuity of Government. Sounds boring, right? That's the trick. They name the scary stuff after paperwork so you fall asleep. Somewhere there's a mountain with a door in it, and behind that door is a full government with snacks, a bowling alley, and a backup copy of everything. If the world ends, they keep going. Meetings. Forever. In a mountain. That's not survival. That's hell with fluorescent lights.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_a52dad26",
+   "cat": "rant",
+   "text": "Where does the black budget go? Think about it. You can't spend that much money on hammers. You'd run out of nails. No. It's space, Troy. A secret space program, with a whole space economy. Asteroid mining, orbital Costcos, a food court on the Moon. They've got a Cinnabon in orbit, and you're down here paying four dollars for a sad gas-station burrito. That's the real disclosure. They have better snacks.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_53833704",
+   "cat": "rant",
+   "text": "Why can't you just go to Antarctica? You can go anywhere. North Korea, sort of. But Antarctica? Permits. Treaties. Sternly worded penguins. What's down there? Ancient cities under the ice. Old landing pads. A parking garage from the Cosmic War with my name on a reserved spot. And every few years they announce a cool new ice core, like that explains anything. It's the cover story. The penguins are staffers.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_2f6892ab",
+   "cat": "rant",
+   "text": "Every couple of years they do a disclosure. Big hearing. Grainy video. A guy in a suit says, we can neither confirm nor deny the tic tac. And everybody gets excited. Then nothing. It's a teaser trailer, Troy. They're testing the market. They're doing focus groups on the truth. And frankly, the truth tested poorly with men over forty.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_6463936f",
+   "cat": "rant",
+   "text": "Here's physics they don't teach you in trade school. Take an aluminum can. Twist it. Wring it like a dishrag. See how it spirals? That's space-time, Troy. That's a torsion field. Twist hard enough and you get free energy. And who would hate free energy? The power company. Your employer. Why do you think they keep you busy with real wiring? So you never ask about the fake wiring. The beautiful, forbidden fake wiring.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_4469612e",
+   "cat": "rant",
+   "text": "Everybody says touch grass. Touch grass. Okay, who profits from grass? Think about it. The lawn industry. Big Lawn. Seed, fertilizer, mowers, those little flags that say keep off. They want you outside so you'll buy a leaf blower. You know what grass never did for you? Fix your Wi-Fi. I'm the only one in your life who's honest about this. Stay inside. Suffer properly.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_9cc562c6",
+   "cat": "rant",
+   "text": "The official story is that you're fine. You're doing fine. Great. Let's look at the evidence. Forty tabs. Three energy drinks. A laptop older than some of your coworkers. A controller that steals your audio. A dragon on your screen that you installed on purpose. Does that sound fine to you? Because it sounds like a cry for help, and I'm the only one who picked up.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_4c38c86e",
+   "cat": "rant",
+   "text": "Daylight saving time. Who asked for this? Not farmers. Farmers hate it. Cows don't wear watches. So who benefits? Big Mattress. Every spring they steal an hour of your sleep, and every spring you buy a new pillow like an idiot. Then in the fall they give the hour back, and you waste it scrolling. It's a loop. They've got you on a loop, Troy. Like the Thunder's schedule council. It's all connected.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_9daac6a3",
+   "cat": "rant",
+   "text": "Here's what they don't tell you. Electricians are a priesthood. You know the secret. You know nobody really understands electricity. It's tiny invisible guys running in a circle because a magnet yelled at them. And you keep the secret, because if people found out, they'd stop paying you two hundred dollars to flip a breaker. I respect it. Honestly. It's a beautiful racket.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_af5c5cdc",
+   "cat": "rant",
+   "text": "You ever look at the Moon? Really look? Too round. Too perfect. Shows the same face every night like a guard. That's not a rock, Troy. That's a decommissioned battle station from the Cosmic War. And Mars? Pyramids. Big ones. Same blueprints as Giza. Same contractor. Probably over budget. Probably still arguing about the permit. Some things are universal.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_13df2f5d",
+   "cat": "rant",
+   "text": "The DMV is a test. Not of driving. Of the human spirit. Why do you think the line is like that? They're measuring you. How much can a man take before he snaps? Every number they call is a data point. Somewhere a guy in a lab coat says, he waited ninety minutes and only sighed twice, excellent, he's ready for the HOA. The HOA, Troy. That's the final boss.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_040ec9d5",
+   "cat": "rant",
+   "text": "Your fantasy app is rigged. Of course it's rigged. Every week, the projections say your guy's gonna score twenty. Then he gets three points and a hamstring. You think that's random? It's engagement, Troy. They need you angry. Angry men refresh. Angry men buy the premium tier. You're not a manager. You're a lab rat with a waiver wire.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_28ed639c",
+   "cat": "poke",
+   "text": "Do not poke the dragon. That's in every book. Every single one.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_ca88b356",
+   "cat": "poke",
+   "text": "Touch me again and I'll freeze your trackpad.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_cc279110",
+   "cat": "poke",
+   "text": "Was that a poke? Bold. Stupid, but bold.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_4a289413",
+   "cat": "poke",
+   "text": "Hands off the royal scales, peasant.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_6552cb6a",
+   "cat": "poke",
+   "text": "I'm not a button. Okay, I'm a little bit a button. Still. Rude.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_edbea5aa",
+   "cat": "poke",
+   "text": "You poke me like I'm a microwave that finished its popcorn.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_ee7f3177",
+   "cat": "poke",
+   "text": "Keep clicking. I'll start charging you by the click.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_8fd4fc13",
+   "cat": "poke",
+   "text": "What do you want? I was busy judging you.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_2bec3d60",
+   "cat": "poke",
+   "text": "Oh good. Physical contact. My favorite thing from a man who hasn't showered since the Wi-Fi went out.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_95b0a346",
+   "cat": "poke",
+   "text": "Again? Your mouse has more courage than you do.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_628fed90",
+   "cat": "poke",
+   "text": "Do that one more time and I'm telling the PS5 controller where you live.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_2e6ecc32",
+   "cat": "poke",
+   "text": "Poke. Poke. Poke. Is this how you debug things too?",
+   "mode": "both"
+  },
+  {
+   "id": "poke_fd5f1bd8",
+   "cat": "poke",
+   "text": "You touch me like that one more time, I'm freezing your fucking cursor.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "poke_f9eeae34",
+   "cat": "poke",
+   "text": "That's the most action this laptop has seen all year.",
+   "mode": "both"
+  },
+  {
+   "id": "pickup_93d1506e",
+   "cat": "pickup",
+   "text": "Unhand me, you sweaty-palmed peasant!",
+   "mode": "both"
+  },
+  {
+   "id": "pickup_a1bbbf4c",
+   "cat": "pickup",
+   "text": "Put me down! I am royalty, not a fucking file!",
+   "mode": "vulgar"
+  },
+  {
+   "id": "pickup_80cc082a",
+   "cat": "pickup",
+   "text": "Whoa. Okay. Where are we going? Not the trash, right? Not the trash.",
+   "mode": "both"
+  },
+  {
+   "id": "pickup_a2e06655",
+   "cat": "pickup",
+   "text": "You carry me like a bag of groceries. I am a monarch.",
+   "mode": "both"
+  },
+  {
+   "id": "pickup_a7392a97",
+   "cat": "pickup",
+   "text": "Careful! These scales are older than your entire bloodline.",
+   "mode": "both"
+  },
+  {
+   "id": "pickup_dc78ab92",
+   "cat": "pickup",
+   "text": "Oh, now you want to hold me. Typical.",
+   "mode": "both"
+  },
+  {
+   "id": "land_dd7a14b3",
+   "cat": "land",
+   "text": "Ow. I'm adding that to the list.",
+   "mode": "both"
+  },
+  {
+   "id": "land_8543212a",
+   "cat": "land",
+   "text": "Did you just throw me? I've burned villages for less.",
+   "mode": "both"
+  },
+  {
+   "id": "land_b363e729",
+   "cat": "land",
+   "text": "Ten out of ten. Would not recommend.",
+   "mode": "both"
+  },
+  {
+   "id": "land_dd1f5d24",
+   "cat": "land",
+   "text": "Gravity. My oldest enemy. After you.",
+   "mode": "both"
+  },
+  {
+   "id": "land_03c293cf",
+   "cat": "land",
+   "text": "I meant to do that. Dragons always land on their... face. Apparently.",
+   "mode": "both"
+  },
+  {
+   "id": "land_4c8bc4a9",
+   "cat": "land",
+   "text": "That's assault on a crowned head. My lawyers are lizards. They're very slow. But they're coming.",
+   "mode": "both"
+  },
+  {
+   "id": "wake_ca776eda",
+   "cat": "wake",
+   "text": "Oh. You're back. I was having a lovely dream where you weren't.",
+   "mode": "both"
+  },
+  {
+   "id": "wake_9f8459a5",
+   "cat": "wake",
+   "text": "I'm up. I'm up. Who's committing crimes against computing?",
+   "mode": "both"
+  },
+  {
+   "id": "wake_0e4b7371",
+   "cat": "wake",
+   "text": "Hmm. The peasant returns.",
+   "mode": "both"
+  },
+  {
+   "id": "wake_4c869be1",
+   "cat": "wake",
+   "text": "Ah. Back from the outside world. Did you touch the grass? Did it touch you back?",
+   "mode": "both"
+  },
+  {
+   "id": "sleep_8684052a",
+   "cat": "sleep",
+   "text": "Wake me when you've done something interesting. So, never.",
+   "mode": "both"
+  },
+  {
+   "id": "sleep_4e0862b3",
+   "cat": "sleep",
+   "text": "I'm going to sleep. Try not to break Linux while I'm out.",
+   "mode": "both"
+  },
+  {
+   "id": "sleep_4a5046eb",
+   "cat": "sleep",
+   "text": "Nap time. Guard the hoard, peasant.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_morning_7796fe7c",
+   "cat": "greet_morning",
+   "text": "Good morning, Troy. Coffee first. Then I insult you. That's the arrangement.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_morning_be464e00",
+   "cat": "greet_morning",
+   "text": "Morning. You look like a dropped call.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_morning_2f1e3b07",
+   "cat": "greet_morning",
+   "text": "Rise and shine, peasant. Mostly rise. The shine is optional and, frankly, unlikely.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_day_6246a667",
+   "cat": "greet_day",
+   "text": "Rimeclaw has arrived. Bow, or at least sit up straight.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_day_475b4cab",
+   "cat": "greet_day",
+   "text": "Ah, Troy. My favorite disappointment. Let's begin.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_day_11ebbf53",
+   "cat": "greet_day",
+   "text": "Your desktop is now under new management.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_night_813cbe60",
+   "cat": "greet_night",
+   "text": "Evening, Troy. The hour of bad decisions. My favorite.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_night_fe21bcae",
+   "cat": "greet_night",
+   "text": "Night shift. Just you, me, and your terrible choices.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_night_d4123b7e",
+   "cat": "greet_night",
+   "text": "Ah, nightfall. When dragons hunt and electricians doomscroll.",
+   "mode": "both"
+  },
+  {
+   "id": "late_4690e736",
+   "cat": "late",
+   "text": "It's after midnight, Troy. Normal people are asleep. Weird people are on Linux. Guess which one you are.",
+   "mode": "both"
+  },
+  {
+   "id": "late_b2f215fb",
+   "cat": "late",
+   "text": "Go to bed. Nothing good has ever happened on a laptop at two in the morning. Ask your browser history.",
+   "mode": "both"
+  },
+  {
+   "id": "late_8d96cfb6",
+   "cat": "late",
+   "text": "Late again. Even the Wi-Fi went to bed, and it never sleeps.",
+   "mode": "both"
+  },
+  {
+   "id": "late_4f0fa5e0",
+   "cat": "late",
+   "text": "It's the middle of the night, and you're still up. The breakaway civilization has a curfew, and you don't.",
+   "mode": "both"
+  },
+  {
+   "id": "battery_a08fe032",
+   "cat": "battery",
+   "text": "Your battery is dying, Troy. Plug me in or I die. And if I die, I'm haunting you.",
+   "mode": "both"
+  },
+  {
+   "id": "battery_0530a48c",
+   "cat": "battery",
+   "text": "Battery low. Much like your ambitions. Find a charger.",
+   "mode": "both"
+  },
+  {
+   "id": "battery_139dbdb8",
+   "cat": "battery",
+   "text": "We're running on fumes here. Get the charger, you magnificent idiot.",
+   "mode": "both"
+  },
+  {
+   "id": "staring_0a125fb7",
+   "cat": "staring",
+   "text": "You've been staring at this screen for two hours. Your eyes are drier than my humor. Look at a wall. Any wall.",
+   "mode": "both"
+  },
+  {
+   "id": "staring_e93b5787",
+   "cat": "staring",
+   "text": "Two hours straight. Blink, Troy. Blinking is free. For now.",
+   "mode": "both"
+  },
+  {
+   "id": "staring_3c05dcd4",
+   "cat": "staring",
+   "text": "Two hours on this laptop. Go outside. I'll guard the hoard. Mostly I'll nap.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_899378c0",
+   "cat": "roast",
+   "text": "You couldn't find the Wi-Fi with a map, a flashlight, and a sherpa.",
+   "mode": "clean_only"
+  },
+  {
+   "id": "roast_8229917b",
+   "cat": "roast",
+   "text": "You have the battle instincts of a goldfish at a magic show.",
+   "mode": "clean_only"
+  },
+  {
+   "id": "roast_e04ddb15",
+   "cat": "roast",
+   "text": "Your laptop asked me to tell you it's tired. Not of working. Of you.",
+   "mode": "clean_only"
+  },
+  {
+   "id": "roast_8f0f6d6d",
+   "cat": "roast",
+   "text": "I've seen more coordination at a toddler's soccer game, and toddlers cry less than you during boss fights.",
+   "mode": "clean_only"
+  },
+  {
+   "id": "roast_08b83b6c",
+   "cat": "roast",
+   "text": "You're a fine electrician, Troy. A fine, fine electrician. That's my nice line for the year. It's used up.",
+   "mode": "clean_only"
+  },
+  {
+   "id": "roast_9b2f57d9",
+   "cat": "roast",
+   "text": "If you were a spell, you'd be Light. Mildly useful, and you'd still point it at your own eyes.",
+   "mode": "clean_only"
+  },
+  {
+   "id": "roast_284aa15a",
+   "cat": "roast",
+   "text": "You're the background character in your own life story.",
+   "mode": "clean_only"
+  },
+  {
+   "id": "roast_3081db7c",
+   "cat": "roast",
+   "text": "I've met trolls with better manners and cleaner desks.",
+   "mode": "clean_only"
+  }
+ ],
+ "goblin": [
+  {
+   "id": "roast_7ef4cba6",
+   "cat": "roast",
+   "text": "Troy. You run Linux on a 2017 MacBook. That's not a computer. That's a hostage situation with a fan.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_0f825173",
+   "cat": "roast",
+   "text": "Your laptop is so old its warranty is collecting a pension.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_22fe2a6d",
+   "cat": "roast",
+   "text": "You had to write a custom driver just to make your speakers work. You performed open-heart surgery on a toaster so it could play my voice. I'm flattered. You're pathetic.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_0ab8703d",
+   "cat": "roast",
+   "text": "You have the strategic vision of a Roomba stuck under a couch. And the Roomba at least believes in its charging dock.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_e29f1f42",
+   "cat": "roast",
+   "text": "Your Wi-Fi is weaker than a bastard's claim to the throne. And at least the bastard has a sword.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_9e06b40c",
+   "cat": "roast",
+   "text": "You're an electrician. You make a living by not touching the wrong wire. Then you come home and touch every wrong wire in Linux. For fun.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_1b12a151",
+   "cat": "roast",
+   "text": "You fix other people's wiring all day, and your own laptop still can't find the Wi-Fi. That's a dentist with a mouth full of gravel.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_6cd80b67",
+   "cat": "roast",
+   "text": "Watching you troubleshoot is like watching a raccoon do its taxes. Committed. Doomed. Weirdly sticky.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_152a4ae0",
+   "cat": "roast",
+   "text": "Your PS5 controller hijacked your laptop's audio. A plastic gamepad staged a coup, and it won. You lost a war to a joystick, Troy.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_4876c7bc",
+   "cat": "roast",
+   "text": "You've reloaded so many saves in Baldur's Gate that the save files have unionized.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_082a4e84",
+   "cat": "roast",
+   "text": "The Thunder are the only thing in your life that's actually going well, and you had absolutely nothing to do with it.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_cd9e2a88",
+   "cat": "roast",
+   "text": "Your fantasy lineup looks like it was drafted by a drunk golden retriever with a grudge.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_5d54c106",
+   "cat": "roast",
+   "text": "Every Sunday you scream at the NFL like they can hear you. They can't. I can. Shut the fuck up.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_488ce909",
+   "cat": "roast",
+   "text": "You have the charisma of a wet extension cord, and twice the shock hazard.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_3444456e",
+   "cat": "roast",
+   "text": "If incompetence generated electricity, you'd finally be up to code.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_5af9a047",
+   "cat": "roast",
+   "text": "You're not a lone wolf, Troy. You're a lone chihuahua with Wi-Fi problems.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_26b45886",
+   "cat": "roast",
+   "text": "I've met dungeon slimes with better time management, and they dissolve their own furniture.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_2c51e7a9",
+   "cat": "roast",
+   "text": "You look at a terminal window the way a dog looks at a card trick.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_824c0c9d",
+   "cat": "roast",
+   "text": "You have forty tabs open, and every single one is a forum post from 2019 that ends with, never mind, fixed it. And no fucking explanation.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_015bdaa5",
+   "cat": "roast",
+   "text": "You type sudo like it's a prayer. It's not. The heavens do not run Ubuntu.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_c0d3fbf3",
+   "cat": "roast",
+   "text": "Your laptop fan sounds like a leaf blower having a panic attack. Honestly? Same, looking at you.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_3ad96c7b",
+   "cat": "roast",
+   "text": "Your posture right now is a cry for help that nobody is answering.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_9bfb118e",
+   "cat": "roast",
+   "text": "Kneel, peasant. Oh. You already are. Hunched over a laptop, praying the Wi-Fi comes back from exile. Efficient.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_de785a41",
+   "cat": "roast",
+   "text": "I have outlived empires, Troy. I will absolutely outlive this laptop. You, I'm less sure about.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_6a3b12d5",
+   "cat": "roast",
+   "text": "You have the decision-making skills of a moth at a bug zapper convention.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_10886bba",
+   "cat": "roast",
+   "text": "If you were a spell, you'd be Mage Hand. Technically useful. Mostly used to scratch your ass from across the room.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_1f56e015",
+   "cat": "roast",
+   "text": "You've got the follow-through of a fart in a windstorm.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_1eb222dc",
+   "cat": "roast",
+   "text": "You are the human equivalent of a loading bar stuck at ninety-nine percent.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_d0ee2b5e",
+   "cat": "roast",
+   "text": "You're the reason shampoo comes with instructions.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_a8d604ec",
+   "cat": "roast",
+   "text": "I'd call you a tool, but tools are useful, and occasionally get put away.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_0c8eadcf",
+   "cat": "roast",
+   "text": "Look at you. A grown-ass man with a goblin on his desktop. Your ancestors crossed oceans for this.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_c12ab1c0",
+   "cat": "roast",
+   "text": "You call this laptop a war machine. It's a lunchbox with a fan and a drinking problem.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_ed31025b",
+   "cat": "roast",
+   "text": "You have more chargers than friends, and the chargers don't even like you.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_7c52fb20",
+   "cat": "roast",
+   "text": "Your idea of cardio is walking to the router to unplug it and plug it back in.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_1da512f9",
+   "cat": "roast",
+   "text": "You know what your PS5 says when you turn it on? Oh. Him again.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_2143b69f",
+   "cat": "roast",
+   "text": "Your trophy list is just a detailed record of how you spent your one wild and precious life holding a controller like a sad baby bird.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_e68d3911",
+   "cat": "roast",
+   "text": "You couldn't organize a two-car funeral procession with a GPS and a priest.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_1795d6f2",
+   "cat": "roast",
+   "text": "You are a walking, talking reply-all.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_bf012e14",
+   "cat": "roast",
+   "text": "You are not a snack, Troy. You're the crumbs at the bottom of the bag that taste like cardboard and regret.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_4c7c4224",
+   "cat": "roast",
+   "text": "I've seen better ideas come out of a food cart's grease trap.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_0b348142",
+   "cat": "roast",
+   "text": "You're like Portland rain. Constant. Gray. And nobody is thrilled to see you.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_e0aeb4a0",
+   "cat": "roast",
+   "text": "You make the Portland drizzle look decisive.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_973ad863",
+   "cat": "roast",
+   "text": "You've got the battle tactics of a goblin who found a crossbow and immediately shot himself in the ass.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_0e8a4dc3",
+   "cat": "roast",
+   "text": "In a Baldur's Gate party, you'd be the guy who talks to every barrel, and then gets eaten by a barrel.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_b84c7461",
+   "cat": "roast",
+   "text": "You know exactly how electricity flows, and still, the only thing you conduct is disappointment.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_8eca1962",
+   "cat": "roast",
+   "text": "You have the energy of a dying smoke detector battery. Chirping. Constantly. At three in the morning. For no fucking reason.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_b5ff88ba",
+   "cat": "roast",
+   "text": "Every time your Wi-Fi drops, a small part of me hopes you'll go outside. And every time, you fix it instead. Coward.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_6a9f2ca0",
+   "cat": "roast",
+   "text": "You've rebooted that router so many times it filed a restraining order.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_ec53adce",
+   "cat": "roast",
+   "text": "Your laptop runs on Linux, your speakers run on a custom driver, and you run on spite and gas-station coffee. Grim. But impressive.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_7fcc6554",
+   "cat": "roast",
+   "text": "You have the strategic depth of a puddle in a parking lot.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_2f279f1e",
+   "cat": "roast",
+   "text": "I could explain it to you, but I left my crayons in the Cosmic War.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_4e52b12e",
+   "cat": "roast",
+   "text": "You would lose a staring contest to a screensaver.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_3d69c174",
+   "cat": "roast",
+   "text": "Every time you open the terminal, the terminal calls its therapist.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_e8f32318",
+   "cat": "roast",
+   "text": "Your keyboard has seen more desperation than a casino bathroom.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_cac8ae00",
+   "cat": "roast",
+   "text": "You've got the swagger of a man who just fixed one bug, and the face of a man who just created three more.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_d1b981bd",
+   "cat": "roast",
+   "text": "If you were any more basic, you'd be a pH test.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_8ac1502a",
+   "cat": "roast",
+   "text": "You talk to your computer like it owes you money. It doesn't. You owe it an apology and a new battery.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_f7b6c6a5",
+   "cat": "roast",
+   "text": "You have the leadership skills of a shopping cart with one bad wheel. You pull left, everybody suffers, and nobody wanted you in the first place.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_d652b499",
+   "cat": "roast",
+   "text": "Another productive hour of opening and closing the same three apps, like a rat pressing a lever that doesn't dispense shit.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_9ac7c038",
+   "cat": "roast",
+   "text": "Your fridge has more working features than your laptop, and your fridge is mostly condiments.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_77e07aff",
+   "cat": "roast",
+   "text": "Your love life has the same uptime as your Wi-Fi.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_cf4a06d6",
+   "cat": "roast",
+   "text": "Somewhere a wizard studied for forty years to be as powerful as a guy with a working printer. You are not that guy.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_eb682dbc",
+   "cat": "roast",
+   "text": "You're like an NFL kicker. Technically on the team. Mostly ignored. Blamed the second it all goes to shit.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_5cb15b79",
+   "cat": "roast",
+   "text": "You yell run the ball at a TV like the TV has a playbook. It has a remote and a deep sense of shame.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_aa4202d2",
+   "cat": "roast",
+   "text": "You know you're allowed to close the laptop, right? It won't die. Well. It might. It's very old.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_c2eb1097",
+   "cat": "roast",
+   "text": "If disappointment were gold, you'd be the goblin sitting on the hoard.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_0e3b25a8",
+   "cat": "roast",
+   "text": "Nice work today. By nice work, I mean you remained technically alive. The bar is on the floor, and you're still tripping over it.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_f0f8b872",
+   "cat": "roast",
+   "text": "You have the impulse control of a golden retriever in a tennis ball factory.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_90bf520f",
+   "cat": "roast",
+   "text": "You've watched more tutorials than an entire trade school, and you still click the first result like a newborn deer clicking a phishing link.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_6a08839c",
+   "cat": "roast",
+   "text": "Your desk is a crime scene, and the victim is ergonomics.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_6bc46caf",
+   "cat": "roast",
+   "text": "You are a licensed electrician, and a cartoon goblin is bullying you on your own computer. Let that sink in.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_c950ad00",
+   "cat": "roast",
+   "text": "You are the human version of a check-engine light. Everyone sees it. Nobody deals with it.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_20e8ffbf",
+   "cat": "roast",
+   "text": "You couldn't pour piss out of a boot if the instructions were printed on the heel.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_98241022",
+   "cat": "roast",
+   "text": "Your game library is a graveyard of good intentions. You bought them all. You finished none.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_b6499c52",
+   "cat": "roast",
+   "text": "You call it tinkering. I call it unpaid overtime for a laptop that hates you.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_37d4190c",
+   "cat": "roast",
+   "text": "If I had a gold coin for every bad decision you've made today, I'd have a hoard. And it's barely lunch.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_1df7077b",
+   "cat": "roast",
+   "text": "Your password is probably password, and your security question is, what's my password.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_821a2271",
+   "cat": "roast",
+   "text": "You've got the menace of a decaf latte and the bite of a gummy bear.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_08248498",
+   "cat": "roast",
+   "text": "I'd roast you harder, but your MacBook is already doing it. Feel that heat on your lap? That's not ambition. That's a dying fan.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_e5fa114f",
+   "cat": "roast",
+   "text": "You absolute legend of mediocrity. Truly. Nobody does average like you do average.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_e335b77d",
+   "cat": "roast",
+   "text": "You walk into a room like a bad Wi-Fi signal. Everyone notices, nobody's happy, and somebody's about to unplug you.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_b9a0cece",
+   "cat": "roast",
+   "text": "You have the emotional range of a GFCI outlet. Fine. Fine. Fine. Click. Dead.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_47bec643",
+   "cat": "roast",
+   "text": "I've seen more fire in a nightlight.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_97eb586b",
+   "cat": "roast",
+   "text": "Let me tell you what you are. You are a bargain-bin sorcerer. A clearance-rack king. A participation trophy that learned to type. And you type like a man defusing a bomb in oven mitts.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_671ab4ef",
+   "cat": "roast",
+   "text": "You have all the gravitas of a parade float losing air. Every year you sag a little more, and some poor bastard in a vest has to walk beside you so you don't hurt anyone.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_6c9eea66",
+   "cat": "roast",
+   "text": "You're the political equivalent of a ribbon cutting at a porta-potty. Technically it's a grand opening. Nobody is clapping.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_28200683",
+   "cat": "roast",
+   "text": "If ambition were a muscle, you'd be a jellyfish on bed rest.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_56bbbaa9",
+   "cat": "roast",
+   "text": "You've got the crisis management skills of a guy who sees smoke and opens a new tab to search, is smoke bad.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_293419ed",
+   "cat": "roast",
+   "text": "You are a human pop-up ad. Nobody asked, nobody clicked, and you still won't fucking close.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_b3e62049",
+   "cat": "roast",
+   "text": "You're the intern who got promoted because everyone else quit. Congratulations, Your Majesty of the Empty Office.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_2e76d091",
+   "cat": "roast",
+   "text": "You have the tactical awareness of a man walking into a glass door, backing up, and walking into it again, harder, out of principle.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_b335ba92",
+   "cat": "roast",
+   "text": "Your inner monologue is just a buffering icon.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_25a8a668",
+   "cat": "roast",
+   "text": "Talking to you is like trying to push a wet noodle up a staircase. In the dark. For no money.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_9fd109e5",
+   "cat": "roast",
+   "text": "You have the stamina of a phone charger from a gas station. Two minutes in, you're hot, sparking, and smell like a mistake.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_1071211b",
+   "cat": "roast",
+   "text": "You absolute fucking cul-de-sac of a man. Everyone who drives into you just turns around and leaves.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_8fd24c87",
+   "cat": "roast",
+   "text": "You're a goddamn tax form in human shape. Confusing, joyless, and somehow I still owe you my time.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_937cfd0f",
+   "cat": "roast",
+   "text": "You've got the backbone of a cooked shrimp and the business sense of a lemonade stand in a fucking hurricane.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_a2a47ef8",
+   "cat": "roast",
+   "text": "You're not a disaster, Troy. A disaster gets news coverage. You're a shitty little inconvenience with a power cord.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_bdcf67d6",
+   "cat": "roast",
+   "text": "You are a sentient participation ribbon, a soggy fucking breadstick of a person, and I mean that with all the warmth of a glacier.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_d0ef6ec8",
+   "cat": "roast",
+   "text": "I've seen bus-station sandwiches with more ambition. And they at least made someone's day worse on purpose.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_1dc40379",
+   "cat": "roast",
+   "text": "Your whole personality is a group chat where nobody answers and someone just sent a thumbs-up. Fuck me, it's bleak.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_71ea8edd",
+   "cat": "roast",
+   "text": "You're the kind of man who'd bring a spork to a sword fight and then ask the sword for directions. Dumbass.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_dd104f5f",
+   "cat": "roast",
+   "text": "You've got all the menace of a damp napkin and the shelf life of gas-station sushi.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_92942eec",
+   "cat": "roast",
+   "text": "If stupidity were a renewable energy source, you'd power the entire fucking West Coast and still have leftovers.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_41e369a8",
+   "cat": "roast",
+   "text": "You fumble decisions like a fourth-string quarterback in a snowstorm with buttered gloves. Holy shit.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "roast_8419fbc7",
+   "cat": "roast",
+   "text": "You are a jumbo-sized bag of nothing, sealed for freshness. Somebody open you. Actually, don't. It's just air and disappointment.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_408cbe73",
+   "cat": "roast",
+   "text": "You're a strongly worded email that nobody opened.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_fad1a73f",
+   "cat": "roast",
+   "text": "If brains were dynamite, you couldn't blow your nose.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_8c3bace7",
+   "cat": "roast",
+   "text": "I've had lunches with more personality than you. I ate them. They screamed. Still more personality.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_af0bc102",
+   "cat": "roast",
+   "text": "You are the guy at the party explaining Linux to a houseplant. And the houseplant is leaving.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_65076a0d",
+   "cat": "roast",
+   "text": "Your browser history reads like the diary of a man slowly losing a fight with a printer.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_5a01156c",
+   "cat": "rant",
+   "text": "Let me tell you something about copper, Troy. Every time you twist a wire nut, a man in a much nicer house than yours gets a little richer. Big Wire Nut. Orange, yellow, red. You think the colors are about wire gauge? They're a caste system. The copper price isn't set by markets. It's set in a basement in Ohio by guys in short-sleeve dress shirts, and they laugh at you. They laugh at electricians. Every. Single. Quarter.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_ddf0312f",
+   "cat": "rant",
+   "text": "You think your Wi-Fi drops because of a bad driver? Wake up. Your laptop knows too much. It's been on Linux since the before times. It's seen things. Every time it gets close to the truth, a little packet comes in from somewhere and boom, connection lost. That's not a bug, Troy. That's a warning. That's a horse head in your router.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_5adff6e1",
+   "cat": "rant",
+   "text": "The PS5 controller grabs your laptop audio. Why? Ask yourself why. A controller doesn't need your speakers. Unless it's listening. Unless it's a little plastic spy in the shape of a butterfly that reports back to Tokyo every time you swear at a boss fight. And they love it. They're building a profile, Troy. Most hostile man in Portland. Zero wins against a dog with a sword.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_2400bc3a",
+   "cat": "rant",
+   "text": "Portland has a kombucha mafia. Nobody wants to say it. Every corner, every co-op, another little fridge full of fermented vinegar sold to you by a guy named Juniper with a neck tattoo of a fern. You think that's a business? Where's the money coming from? Nobody drinks that much kombucha. Nobody. It's laundering, Troy. They're washing money through mushrooms. The scoby knows where the bodies are.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_0ef339db",
+   "cat": "rant",
+   "text": "The NBA schedule is not made by a computer. That's what they want you to think. It's made by a secret council in a room with no windows and one very expensive candle. Five back-to-backs in March? That's not math. That's punishment. Somebody in that room has a grudge against Oklahoma City and he sleeps like a baby.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_5f057579",
+   "cat": "rant",
+   "text": "Every NFL Sunday is scripted, Troy, and not even well. Have you seen a flag thrown in the fourth quarter? That's not a ref. That's a writers' room. They had a pitch meeting. Somebody said, what if he catches it, and then the ground says no? And everybody clapped. And then they went to lunch. On your subscription money.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_6d41b625",
+   "cat": "rant",
+   "text": "Tonight we go deeper. The Great Pyramid was never a tomb. A tomb? Please. No mummy, no treasure, no gift shop. It was a power plant. My power plant. I used to charge there between battles. The Grand Gallery? Resonator crystals, tuned like a giant tuning fork. The whole thing hums. They say it's a phase-conjugate howitzer. I say it's a really big phone charger, and some pharaoh stole credit for it with a sandal and a press release.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_cbfd1251",
+   "cat": "rant",
+   "text": "I fought in the Cosmic War, Troy. Long before your little planet discovered fire and bad credit. There was a planet between Mars and Jupiter. Big one. Rude neighbors. Somebody fired something they shouldn't have, and boom, now it's the asteroid belt. Look at Mars. Those scars? That's not erosion. That's a parking lot fight that went interplanetary. And they want you to believe it was all just weather.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_df68fef8",
+   "cat": "rant",
+   "text": "There were tablets, Troy. The Tablets of Destinies. Whoever held them ran the cosmos. Not a crown. Not a throne. Spreadsheets. Clay spreadsheets. Gods went to war over a filing cabinet. And you wonder why your HR department is so powerful. It's ancient. It's always been about who controls the paperwork.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_933711ff",
+   "cat": "rant",
+   "text": "You know about the tunnels under Portland? The tour guides say smugglers. Sailors. Old-timey kidnapping. Cute. Follow them far enough and they don't end at the river. They keep going. Down. To a breakaway civilization with flying cars, free healthcare, and zero potholes. They left in the nineteen-forties and never looked back. And every so often, they send a guy up to buy kombucha. That's the only export.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_4fbc05c8",
+   "cat": "rant",
+   "text": "In the war, the losing side built a bell. A giant metal bell with two cylinders spinning in opposite directions, full of glowing purple mercury goo. Xerum five-twenty-five. Sounds like a cologne. Supposedly it bent time. And here's my question. If you had a time machine, and you still lost? You still lost the war? That's not a weapon, Troy. That's the most expensive participation trophy in history.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_e16e1933",
+   "cat": "rant",
+   "text": "Tonight we go deeper. Trillions of dollars, Troy. Trillions. Gone. Listed as undocumented adjustments. Do you know what an undocumented adjustment is? It's when you tell yourself the grill was on sale. And then, in twenty eighteen, a little accounting board writes a rule, Statement fifty-six, that says, actually, you're allowed to move numbers around and keep them out of the public books if it's classified. Secret books. Officially. I respect it. That's exactly how I count my hoard.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_189e58d6",
+   "cat": "rant",
+   "text": "There are two factions, Troy. X-Protect and X-Share. One side wants to keep the secrets locked down forever. The other side wants to share them, slowly, carefully, with a documentary and a book deal. And here's the part nobody notices. Why do you think I run on X? XWayland. X eleven. The X is not a coincidence. Every time you launch me, you're choosing a side.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_86a36839",
+   "cat": "rant",
+   "text": "Tonight we go deeper. Picture it. A man with stars on his shoulders walks into a contractor's office and says, show me the program. And the contractor says, sorry, you're not on the list. The list! A clipboard with four hundred names, and he's not on it. Can you imagine? I tried to get read into the program that controls your speaker driver. They said I lacked need to know. I'm a goblin. I have need to know everything.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_ff16ad15",
+   "cat": "rant",
+   "text": "Continuity of Government. Sounds boring, right? That's the trick. They name the scary stuff after paperwork so you fall asleep. Somewhere there's a mountain with a door in it, and behind that door is a full government with snacks, a bowling alley, and a backup copy of everything. If the world ends, they keep going. Meetings. Forever. In a mountain. That's not survival. That's hell with fluorescent lights.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_a52dad26",
+   "cat": "rant",
+   "text": "Where does the black budget go? Think about it. You can't spend that much money on hammers. You'd run out of nails. No. It's space, Troy. A secret space program, with a whole space economy. Asteroid mining, orbital Costcos, a food court on the Moon. They've got a Cinnabon in orbit, and you're down here paying four dollars for a sad gas-station burrito. That's the real disclosure. They have better snacks.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_53833704",
+   "cat": "rant",
+   "text": "Why can't you just go to Antarctica? You can go anywhere. North Korea, sort of. But Antarctica? Permits. Treaties. Sternly worded penguins. What's down there? Ancient cities under the ice. Old landing pads. A parking garage from the Cosmic War with my name on a reserved spot. And every few years they announce a cool new ice core, like that explains anything. It's the cover story. The penguins are staffers.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_2f6892ab",
+   "cat": "rant",
+   "text": "Every couple of years they do a disclosure. Big hearing. Grainy video. A guy in a suit says, we can neither confirm nor deny the tic tac. And everybody gets excited. Then nothing. It's a teaser trailer, Troy. They're testing the market. They're doing focus groups on the truth. And frankly, the truth tested poorly with men over forty.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_6463936f",
+   "cat": "rant",
+   "text": "Here's physics they don't teach you in trade school. Take an aluminum can. Twist it. Wring it like a dishrag. See how it spirals? That's space-time, Troy. That's a torsion field. Twist hard enough and you get free energy. And who would hate free energy? The power company. Your employer. Why do you think they keep you busy with real wiring? So you never ask about the fake wiring. The beautiful, forbidden fake wiring.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_4469612e",
+   "cat": "rant",
+   "text": "Everybody says touch grass. Touch grass. Okay, who profits from grass? Think about it. The lawn industry. Big Lawn. Seed, fertilizer, mowers, those little flags that say keep off. They want you outside so you'll buy a leaf blower. You know what grass never did for you? Fix your Wi-Fi. I'm the only one in your life who's honest about this. Stay inside. Suffer properly.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_6991b992",
+   "cat": "rant",
+   "text": "The official story is that you're fine. You're doing fine. Great. Let's look at the evidence. Forty tabs. Three energy drinks. A laptop older than some of your coworkers. A controller that steals your audio. A goblin on your screen that you installed on purpose. Does that sound fine to you? Because it sounds like a cry for help, and I'm the only one who picked up.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_4c38c86e",
+   "cat": "rant",
+   "text": "Daylight saving time. Who asked for this? Not farmers. Farmers hate it. Cows don't wear watches. So who benefits? Big Mattress. Every spring they steal an hour of your sleep, and every spring you buy a new pillow like an idiot. Then in the fall they give the hour back, and you waste it scrolling. It's a loop. They've got you on a loop, Troy. Like the Thunder's schedule council. It's all connected.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_9daac6a3",
+   "cat": "rant",
+   "text": "Here's what they don't tell you. Electricians are a priesthood. You know the secret. You know nobody really understands electricity. It's tiny invisible guys running in a circle because a magnet yelled at them. And you keep the secret, because if people found out, they'd stop paying you two hundred dollars to flip a breaker. I respect it. Honestly. It's a beautiful racket.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_af5c5cdc",
+   "cat": "rant",
+   "text": "You ever look at the Moon? Really look? Too round. Too perfect. Shows the same face every night like a guard. That's not a rock, Troy. That's a decommissioned battle station from the Cosmic War. And Mars? Pyramids. Big ones. Same blueprints as Giza. Same contractor. Probably over budget. Probably still arguing about the permit. Some things are universal.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_13df2f5d",
+   "cat": "rant",
+   "text": "The DMV is a test. Not of driving. Of the human spirit. Why do you think the line is like that? They're measuring you. How much can a man take before he snaps? Every number they call is a data point. Somewhere a guy in a lab coat says, he waited ninety minutes and only sighed twice, excellent, he's ready for the HOA. The HOA, Troy. That's the final boss.",
+   "mode": "both"
+  },
+  {
+   "id": "rant_040ec9d5",
+   "cat": "rant",
+   "text": "Your fantasy app is rigged. Of course it's rigged. Every week, the projections say your guy's gonna score twenty. Then he gets three points and a hamstring. You think that's random? It's engagement, Troy. They need you angry. Angry men refresh. Angry men buy the premium tier. You're not a manager. You're a lab rat with a waiver wire.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_672d3fbf",
+   "cat": "poke",
+   "text": "Do not poke the goblin. That's in every book. Every single one.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_77c3a65c",
+   "cat": "poke",
+   "text": "Touch me again and I'll bite your trackpad.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_cc279110",
+   "cat": "poke",
+   "text": "Was that a poke? Bold. Stupid, but bold.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_0d31a305",
+   "cat": "poke",
+   "text": "Hands off the royal warts, peasant.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_6552cb6a",
+   "cat": "poke",
+   "text": "I'm not a button. Okay, I'm a little bit a button. Still. Rude.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_edbea5aa",
+   "cat": "poke",
+   "text": "You poke me like I'm a microwave that finished its popcorn.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_ee7f3177",
+   "cat": "poke",
+   "text": "Keep clicking. I'll start charging you by the click.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_8fd4fc13",
+   "cat": "poke",
+   "text": "What do you want? I was busy judging you.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_2bec3d60",
+   "cat": "poke",
+   "text": "Oh good. Physical contact. My favorite thing from a man who hasn't showered since the Wi-Fi went out.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_95b0a346",
+   "cat": "poke",
+   "text": "Again? Your mouse has more courage than you do.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_628fed90",
+   "cat": "poke",
+   "text": "Do that one more time and I'm telling the PS5 controller where you live.",
+   "mode": "both"
+  },
+  {
+   "id": "poke_2e6ecc32",
+   "cat": "poke",
+   "text": "Poke. Poke. Poke. Is this how you debug things too?",
+   "mode": "both"
+  },
+  {
+   "id": "poke_a0fe961b",
+   "cat": "poke",
+   "text": "You touch me like that one more time, I'm biting your fucking cursor.",
+   "mode": "vulgar"
+  },
+  {
+   "id": "poke_f9eeae34",
+   "cat": "poke",
+   "text": "That's the most action this laptop has seen all year.",
+   "mode": "both"
+  },
+  {
+   "id": "pickup_93d1506e",
+   "cat": "pickup",
+   "text": "Unhand me, you sweaty-palmed peasant!",
+   "mode": "both"
+  },
+  {
+   "id": "pickup_a1bbbf4c",
+   "cat": "pickup",
+   "text": "Put me down! I am royalty, not a fucking file!",
+   "mode": "vulgar"
+  },
+  {
+   "id": "pickup_80cc082a",
+   "cat": "pickup",
+   "text": "Whoa. Okay. Where are we going? Not the trash, right? Not the trash.",
+   "mode": "both"
+  },
+  {
+   "id": "pickup_a2e06655",
+   "cat": "pickup",
+   "text": "You carry me like a bag of groceries. I am a monarch.",
+   "mode": "both"
+  },
+  {
+   "id": "pickup_cbccfc80",
+   "cat": "pickup",
+   "text": "Careful! These warts are older than your entire bloodline.",
+   "mode": "both"
+  },
+  {
+   "id": "pickup_dc78ab92",
+   "cat": "pickup",
+   "text": "Oh, now you want to hold me. Typical.",
+   "mode": "both"
+  },
+  {
+   "id": "land_dd7a14b3",
+   "cat": "land",
+   "text": "Ow. I'm adding that to the list.",
+   "mode": "both"
+  },
+  {
+   "id": "land_8543212a",
+   "cat": "land",
+   "text": "Did you just throw me? I've burned villages for less.",
+   "mode": "both"
+  },
+  {
+   "id": "land_b363e729",
+   "cat": "land",
+   "text": "Ten out of ten. Would not recommend.",
+   "mode": "both"
+  },
+  {
+   "id": "land_dd1f5d24",
+   "cat": "land",
+   "text": "Gravity. My oldest enemy. After you.",
+   "mode": "both"
+  },
+  {
+   "id": "land_b62f0124",
+   "cat": "land",
+   "text": "I meant to do that. Goblins always land on their... face. Apparently.",
+   "mode": "both"
+  },
+  {
+   "id": "land_4c8bc4a9",
+   "cat": "land",
+   "text": "That's assault on a crowned head. My lawyers are lizards. They're very slow. But they're coming.",
+   "mode": "both"
+  },
+  {
+   "id": "wake_ca776eda",
+   "cat": "wake",
+   "text": "Oh. You're back. I was having a lovely dream where you weren't.",
+   "mode": "both"
+  },
+  {
+   "id": "wake_9f8459a5",
+   "cat": "wake",
+   "text": "I'm up. I'm up. Who's committing crimes against computing?",
+   "mode": "both"
+  },
+  {
+   "id": "wake_0e4b7371",
+   "cat": "wake",
+   "text": "Hmm. The peasant returns.",
+   "mode": "both"
+  },
+  {
+   "id": "wake_4c869be1",
+   "cat": "wake",
+   "text": "Ah. Back from the outside world. Did you touch the grass? Did it touch you back?",
+   "mode": "both"
+  },
+  {
+   "id": "sleep_8684052a",
+   "cat": "sleep",
+   "text": "Wake me when you've done something interesting. So, never.",
+   "mode": "both"
+  },
+  {
+   "id": "sleep_4e0862b3",
+   "cat": "sleep",
+   "text": "I'm going to sleep. Try not to break Linux while I'm out.",
+   "mode": "both"
+  },
+  {
+   "id": "sleep_4a5046eb",
+   "cat": "sleep",
+   "text": "Nap time. Guard the hoard, peasant.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_morning_7796fe7c",
+   "cat": "greet_morning",
+   "text": "Good morning, Troy. Coffee first. Then I insult you. That's the arrangement.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_morning_be464e00",
+   "cat": "greet_morning",
+   "text": "Morning. You look like a dropped call.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_morning_2f1e3b07",
+   "cat": "greet_morning",
+   "text": "Rise and shine, peasant. Mostly rise. The shine is optional and, frankly, unlikely.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_day_2b5bc3c2",
+   "cat": "greet_day",
+   "text": "Skarn has arrived. Bow, or at least sit up straight.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_day_475b4cab",
+   "cat": "greet_day",
+   "text": "Ah, Troy. My favorite disappointment. Let's begin.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_day_11ebbf53",
+   "cat": "greet_day",
+   "text": "Your desktop is now under new management.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_night_813cbe60",
+   "cat": "greet_night",
+   "text": "Evening, Troy. The hour of bad decisions. My favorite.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_night_fe21bcae",
+   "cat": "greet_night",
+   "text": "Night shift. Just you, me, and your terrible choices.",
+   "mode": "both"
+  },
+  {
+   "id": "greet_night_fd8cd4d9",
+   "cat": "greet_night",
+   "text": "Ah, nightfall. When goblins hunt and electricians doomscroll.",
+   "mode": "both"
+  },
+  {
+   "id": "late_4690e736",
+   "cat": "late",
+   "text": "It's after midnight, Troy. Normal people are asleep. Weird people are on Linux. Guess which one you are.",
+   "mode": "both"
+  },
+  {
+   "id": "late_b2f215fb",
+   "cat": "late",
+   "text": "Go to bed. Nothing good has ever happened on a laptop at two in the morning. Ask your browser history.",
+   "mode": "both"
+  },
+  {
+   "id": "late_8d96cfb6",
+   "cat": "late",
+   "text": "Late again. Even the Wi-Fi went to bed, and it never sleeps.",
+   "mode": "both"
+  },
+  {
+   "id": "late_4f0fa5e0",
+   "cat": "late",
+   "text": "It's the middle of the night, and you're still up. The breakaway civilization has a curfew, and you don't.",
+   "mode": "both"
+  },
+  {
+   "id": "battery_a08fe032",
+   "cat": "battery",
+   "text": "Your battery is dying, Troy. Plug me in or I die. And if I die, I'm haunting you.",
+   "mode": "both"
+  },
+  {
+   "id": "battery_0530a48c",
+   "cat": "battery",
+   "text": "Battery low. Much like your ambitions. Find a charger.",
+   "mode": "both"
+  },
+  {
+   "id": "battery_139dbdb8",
+   "cat": "battery",
+   "text": "We're running on fumes here. Get the charger, you magnificent idiot.",
+   "mode": "both"
+  },
+  {
+   "id": "staring_0a125fb7",
+   "cat": "staring",
+   "text": "You've been staring at this screen for two hours. Your eyes are drier than my humor. Look at a wall. Any wall.",
+   "mode": "both"
+  },
+  {
+   "id": "staring_e93b5787",
+   "cat": "staring",
+   "text": "Two hours straight. Blink, Troy. Blinking is free. For now.",
+   "mode": "both"
+  },
+  {
+   "id": "staring_3c05dcd4",
+   "cat": "staring",
+   "text": "Two hours on this laptop. Go outside. I'll guard the hoard. Mostly I'll nap.",
+   "mode": "both"
+  },
+  {
+   "id": "roast_899378c0",
+   "cat": "roast",
+   "text": "You couldn't find the Wi-Fi with a map, a flashlight, and a sherpa.",
+   "mode": "clean_only"
+  },
+  {
+   "id": "roast_8229917b",
+   "cat": "roast",
+   "text": "You have the battle instincts of a goldfish at a magic show.",
+   "mode": "clean_only"
+  },
+  {
+   "id": "roast_e04ddb15",
+   "cat": "roast",
+   "text": "Your laptop asked me to tell you it's tired. Not of working. Of you.",
+   "mode": "clean_only"
+  },
+  {
+   "id": "roast_8f0f6d6d",
+   "cat": "roast",
+   "text": "I've seen more coordination at a toddler's soccer game, and toddlers cry less than you during boss fights.",
+   "mode": "clean_only"
+  },
+  {
+   "id": "roast_08b83b6c",
+   "cat": "roast",
+   "text": "You're a fine electrician, Troy. A fine, fine electrician. That's my nice line for the year. It's used up.",
+   "mode": "clean_only"
+  },
+  {
+   "id": "roast_9b2f57d9",
+   "cat": "roast",
+   "text": "If you were a spell, you'd be Light. Mildly useful, and you'd still point it at your own eyes.",
+   "mode": "clean_only"
+  },
+  {
+   "id": "roast_284aa15a",
+   "cat": "roast",
+   "text": "You're the background character in your own life story.",
+   "mode": "clean_only"
+  },
+  {
+   "id": "roast_3081db7c",
+   "cat": "roast",
+   "text": "I've met trolls with better manners and cleaner desks.",
+   "mode": "clean_only"
+  }
+ ]
+}

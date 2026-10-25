@@ -1,0 +1,6 @@
+{
+ "dragon": {"engine": "edge", "voice": "en-US-ChristopherNeural", "rate": "-8%", "pitch": "-6Hz",
+            "post": "silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0.05,areverse,silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0.15,areverse,highpass=f=60,bass=g=3:f=110,acompressor=threshold=-20dB:ratio=2:attack=10:release=150:makeup=1,loudnorm=I=-16:TP=-1.5:LRA=11"},
+ "goblin": {"engine": "edge", "voice": "en-US-EricNeural", "rate": "+6%", "pitch": "+4Hz",
+            "post": "silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0.05,areverse,silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0.15,areverse,highpass=f=80,acompressor=threshold=-20dB:ratio=2:attack=10:release=150:makeup=1,loudnorm=I=-16:TP=-1.5:LRA=11"}
+}
