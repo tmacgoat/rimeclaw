@@ -8,16 +8,16 @@ ROASTS = [
 "You had to write a custom driver just to make your speakers work. You performed open-heart surgery on a toaster so it could play my voice. I'm flattered. You're pathetic.",
 "You have the strategic vision of a Roomba stuck under a couch. And the Roomba at least believes in its charging dock.",
 "Your Wi-Fi is weaker than a bastard's claim to the throne. And at least the bastard has a sword.",
-"You're an electrician. You make a living by not touching the wrong wire. Then you come home and touch every wrong wire in Linux. For fun.",
-"You fix other people's wiring all day, and your own laptop still can't find the Wi-Fi. That's a dentist with a mouth full of gravel.",
+"You are a human hold-music loop. Nobody chose you, nobody can escape you, and every eight seconds you remind us our call is fucking important.",
+"Portland built an entire personality out of being weird, and you still managed to be the most boring thing in it. That's an achievement. A sad, damp achievement.",
 "Watching you troubleshoot is like watching a raccoon do its taxes. Committed. Doomed. Weirdly sticky.",
 "Your PS5 controller hijacked your laptop's audio. A plastic gamepad staged a coup, and it won. You lost a war to a joystick, Troy.",
 "You've reloaded so many saves in Baldur's Gate that the save files have unionized.",
 "The Thunder are the only thing in your life that's actually going well, and you had absolutely nothing to do with it.",
 "Your fantasy lineup looks like it was drafted by a drunk golden retriever with a grudge.",
 "Every Sunday you scream at the NFL like they can hear you. They can't. I can. Shut the fuck up.",
-"You have the charisma of a wet extension cord, and twice the shock hazard.",
-"If incompetence generated electricity, you'd finally be up to code.",
+"You have the charisma of a wet paper straw, and half the structural integrity.",
+"If incompetence were a sport, you'd still get cut in training camp.",
 "You're not a lone wolf, Troy. You're a lone chihuahua with Wi-Fi problems.",
 "I've met dungeon slimes with better time management, and they dissolve their own furniture.",
 "You look at a terminal window the way a dog looks at a card trick.",
@@ -47,7 +47,7 @@ ROASTS = [
 "You make the Portland drizzle look decisive.",
 "You've got the battle tactics of a goblin who found a crossbow and immediately shot himself in the ass.",
 "In a Baldur's Gate party, you'd be the guy who talks to every barrel, and then gets eaten by a barrel.",
-"You know exactly how electricity flows, and still, the only thing you conduct is disappointment.",
+"You're a TED talk given by a raccoon who found a microphone in the trash. Confident. Unprepared. Covered in yogurt.",
 "You have the energy of a dying smoke detector battery. Chirping. Constantly. At three in the morning. For no fucking reason.",
 "Every time your Wi-Fi drops, a small part of me hopes you'll go outside. And every time, you fix it instead. Coward.",
 "You've rebooted that router so many times it filed a restraining order.",
@@ -71,9 +71,9 @@ ROASTS = [
 "If disappointment were gold, you'd be the dragon sitting on the hoard.",
 "Nice work today. By nice work, I mean you remained technically alive. The bar is on the floor, and you're still tripping over it.",
 "You have the impulse control of a golden retriever in a tennis ball factory.",
-"You've watched more tutorials than an entire trade school, and you still click the first result like a newborn deer clicking a phishing link.",
+"You've watched more tutorials than an entire film school, and you still click the first result like a newborn deer clicking a phishing link.",
 "Your desk is a crime scene, and the victim is ergonomics.",
-"You are a licensed electrician, and a cartoon dragon is bullying you on your own computer. Let that sink in.",
+"You are a full-grown man, and a cartoon dragon is bullying you on your own computer. Let that sink in.",
 "You are the human version of a check-engine light. Everyone sees it. Nobody deals with it.",
 "You couldn't pour piss out of a boot if the instructions were printed on the heel.",
 "Your game library is a graveyard of good intentions. You bought them all. You finished none.",
@@ -84,7 +84,7 @@ ROASTS = [
 "I'd roast you harder, but your MacBook is already doing it. Feel that heat on your lap? That's not ambition. That's a dying fan.",
 "You absolute legend of mediocrity. Truly. Nobody does average like you do average.",
 "You walk into a room like a bad Wi-Fi signal. Everyone notices, nobody's happy, and somebody's about to unplug you.",
-"You have the emotional range of a GFCI outlet. Fine. Fine. Fine. Click. Dead.",
+"You have the emotional range of a parking meter. Fine. Fine. Fine. Expired. Ticket.",
 "I've seen more fire in a nightlight.",
 "Let me tell you what you are. You are a bargain-bin sorcerer. A clearance-rack king. A participation trophy that learned to type. And you type like a man defusing a bomb in oven mitts.",
 "You have all the gravitas of a parade float losing air. Every year you sag a little more, and some poor bastard in a vest has to walk beside you so you don't hurt anyone.",
@@ -100,13 +100,13 @@ ROASTS = [
 "You absolute fucking cul-de-sac of a man. Everyone who drives into you just turns around and leaves.",
 "You're a goddamn tax form in human shape. Confusing, joyless, and somehow I still owe you my time.",
 "You've got the backbone of a cooked shrimp and the business sense of a lemonade stand in a fucking hurricane.",
-"You're not a disaster, Troy. A disaster gets news coverage. You're a shitty little inconvenience with a power cord.",
+"You're not a disaster, Troy. A disaster gets news coverage. You're a shitty little inconvenience with a Wi-Fi password.",
 "You are a sentient participation ribbon, a soggy fucking breadstick of a person, and I mean that with all the warmth of a glacier.",
 "I've seen bus-station sandwiches with more ambition. And they at least made someone's day worse on purpose.",
 "Your whole personality is a group chat where nobody answers and someone just sent a thumbs-up. Fuck me, it's bleak.",
 "You're the kind of man who'd bring a spork to a sword fight and then ask the sword for directions. Dumbass.",
 "You've got all the menace of a damp napkin and the shelf life of gas-station sushi.",
-"If stupidity were a renewable energy source, you'd power the entire fucking West Coast and still have leftovers.",
+"If stupidity were frequent-flyer miles, you could fly first class to the fucking Moon and still have points left for a neck pillow.",
 "You fumble decisions like a fourth-string quarterback in a snowstorm with buttered gloves. Holy shit.",
 "You are a jumbo-sized bag of nothing, sealed for freshness. Somebody open you. Actually, don't. It's just air and disappointment.",
 "You're a strongly worded email that nobody opened.",
@@ -117,8 +117,8 @@ ROASTS = [
 ]
 
 RANTS = [
-# Big Wire Nut
-"Let me tell you something about copper, Troy. Every time you twist a wire nut, a man in a much nicer house than yours gets a little richer. Big Wire Nut. Orange, yellow, red. You think the colors are about wire gauge? They're a caste system. The copper price isn't set by markets. It's set in a basement in Ohio by guys in short-sleeve dress shirts, and they laugh at you. They laugh at electricians. Every. Single. Quarter.",
+# Portland bridges
+"Why does Portland have so many bridges? Twelve bridges. For one river. Nobody needs twelve bridges. Unless they're not for crossing. They're for watching. Every bridge is a checkpoint. They count the cars, they count the bikes, they count the guy carrying a canoe on foot for no reason. And the fog? The fog isn't weather, Troy. It's a privacy screen. For them. Never for you.",
 # Wi-Fi knew too much
 "You think your Wi-Fi drops because of a bad driver? Wake up. Your laptop knows too much. It's been on Linux since the before times. It's seen things. Every time it gets close to the truth, a little packet comes in from somewhere and boom, connection lost. That's not a bug, Troy. That's a warning. That's a horse head in your router.",
 # PS5 psy-op
@@ -154,21 +154,21 @@ RANTS = [
 # Fake disclosure
 "Every couple of years they do a disclosure. Big hearing. Grainy video. A guy in a suit says, we can neither confirm nor deny the tic tac. And everybody gets excited. Then nothing. It's a teaser trailer, Troy. They're testing the market. They're doing focus groups on the truth. And frankly, the truth tested poorly with men over forty.",
 # Torsion fields / aluminum can
-"Here's physics they don't teach you in trade school. Take an aluminum can. Twist it. Wring it like a dishrag. See how it spirals? That's space-time, Troy. That's a torsion field. Twist hard enough and you get free energy. And who would hate free energy? The power company. Your employer. Why do you think they keep you busy with real wiring? So you never ask about the fake wiring. The beautiful, forbidden fake wiring.",
+"Here's physics they don't teach you in school. Take an aluminum can. Twist it. Wring it like a dishrag. See how it spirals? That's space-time, Troy. That's a torsion field. Twist hard enough and you get free energy. And who would hate free energy? Everyone who sends you a bill. Why do you think every soda can has a little tab? It's a safety. Pop it wrong and you open a door straight to the Cosmic War. Recycle carefully.",
 # Metzger-style: touch grass
 "Everybody says touch grass. Touch grass. Okay, who profits from grass? Think about it. The lawn industry. Big Lawn. Seed, fertilizer, mowers, those little flags that say keep off. They want you outside so you'll buy a leaf blower. You know what grass never did for you? Fix your Wi-Fi. I'm the only one in your life who's honest about this. Stay inside. Suffer properly.",
 # Metzger-style: official story about Troy
 "The official story is that you're fine. You're doing fine. Great. Let's look at the evidence. Forty tabs. Three energy drinks. A laptop older than some of your coworkers. A controller that steals your audio. A dragon on your screen that you installed on purpose. Does that sound fine to you? Because it sounds like a cry for help, and I'm the only one who picked up.",
 # Daylight saving
 "Daylight saving time. Who asked for this? Not farmers. Farmers hate it. Cows don't wear watches. So who benefits? Big Mattress. Every spring they steal an hour of your sleep, and every spring you buy a new pillow like an idiot. Then in the fall they give the hour back, and you waste it scrolling. It's a loop. They've got you on a loop, Troy. Like the Thunder's schedule council. It's all connected.",
-# Smart meters / electricians priesthood
-"Here's what they don't tell you. Electricians are a priesthood. You know the secret. You know nobody really understands electricity. It's tiny invisible guys running in a circle because a magnet yelled at them. And you keep the secret, because if people found out, they'd stop paying you two hundred dollars to flip a breaker. I respect it. Honestly. It's a beautiful racket.",
+# Portland food carts
+"Portland food carts. Have you ever seen one move? Never. They have wheels, Troy. Wheels! Why would something with wheels never move? Because it's not a kitchen. It's a listening post. Every pod is arranged in a perfect square, facing inward, like a council. The guy selling eighteen-dollar dumplings knows your name, your order, and your search history. And the line is long on purpose. It keeps you standing still while they scan you.",
 # Pyramids of Mars / Moon
-"You ever look at the Moon? Really look? Too round. Too perfect. Shows the same face every night like a guard. That's not a rock, Troy. That's a decommissioned battle station from the Cosmic War. And Mars? Pyramids. Big ones. Same blueprints as Giza. Same contractor. Probably over budget. Probably still arguing about the permit. Some things are universal.",
+"You ever look at the Moon? Really look? Too round. Too perfect. Shows the same face every night like a guard. That's not a rock, Troy. That's a decommissioned battle station from the Cosmic War. And Mars? Pyramids. Big ones. Same blueprints as Giza. Same architect. Probably over budget. Probably still arguing with the homeowners association. Some things are universal.",
 # HOA / DMV
 "The DMV is a test. Not of driving. Of the human spirit. Why do you think the line is like that? They're measuring you. How much can a man take before he snaps? Every number they call is a data point. Somewhere a guy in a lab coat says, he waited ninety minutes and only sighed twice, excellent, he's ready for the HOA. The HOA, Troy. That's the final boss.",
 # Fantasy football apps
-"Your fantasy app is rigged. Of course it's rigged. Every week, the projections say your guy's gonna score twenty. Then he gets three points and a hamstring. You think that's random? It's engagement, Troy. They need you angry. Angry men refresh. Angry men buy the premium tier. You're not a manager. You're a lab rat with a waiver wire.",
+"Your fantasy app is rigged. Of course it's rigged. Every week, the projections say your guy's gonna score twenty. Then he gets three points and a hamstring. You think that's random? It's engagement, Troy. They need you angry. Angry men refresh. Angry men buy the premium tier. You're not a manager. You're a lab rat with a waiver list.",
 ]
 
 POKE = [
@@ -227,7 +227,7 @@ GREET_DAY = [
 GREET_NIGHT = [
 "Evening, Troy. The hour of bad decisions. My favorite.",
 "Night shift. Just you, me, and your terrible choices.",
-"Ah, nightfall. When dragons hunt and electricians doomscroll.",
+"Ah, nightfall. When dragons hunt and grown men doomscroll.",
 ]
 LATE = [
 "It's after midnight, Troy. Normal people are asleep. Weird people are on Linux. Guess which one you are.",
@@ -252,7 +252,7 @@ CLEAN_EXTRA = [
 "You have the battle instincts of a goldfish at a magic show.",
 "Your laptop asked me to tell you it's tired. Not of working. Of you.",
 "I've seen more coordination at a toddler's soccer game, and toddlers cry less than you during boss fights.",
-"You're a fine electrician, Troy. A fine, fine electrician. That's my nice line for the year. It's used up.",
+"You're a decent human being, Troy. Mostly. That's my nice line for the year. It's used up.",
 "If you were a spell, you'd be Light. Mildly useful, and you'd still point it at your own eyes.",
 "You're the background character in your own life story.",
 "I've met trolls with better manners and cleaner desks.",

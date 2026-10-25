@@ -31,15 +31,15 @@
    "mode": "vulgar"
   },
   {
-   "id": "roast_9e06b40c",
+   "id": "roast_ea96eb32",
    "cat": "roast",
-   "text": "You're an electrician. You make a living by not touching the wrong wire. Then you come home and touch every wrong wire in Linux. For fun.",
-   "mode": "both"
+   "text": "You are a human hold-music loop. Nobody chose you, nobody can escape you, and every eight seconds you remind us our call is fucking important.",
+   "mode": "vulgar"
   },
   {
-   "id": "roast_1b12a151",
+   "id": "roast_2adaaf9d",
    "cat": "roast",
-   "text": "You fix other people's wiring all day, and your own laptop still can't find the Wi-Fi. That's a dentist with a mouth full of gravel.",
+   "text": "Portland built an entire personality out of being weird, and you still managed to be the most boring thing in it. That's an achievement. A sad, damp achievement.",
    "mode": "both"
   },
   {
@@ -79,15 +79,15 @@
    "mode": "vulgar"
   },
   {
-   "id": "roast_488ce909",
+   "id": "roast_ae1d4a78",
    "cat": "roast",
-   "text": "You have the charisma of a wet extension cord, and twice the shock hazard.",
+   "text": "You have the charisma of a wet paper straw, and half the structural integrity.",
    "mode": "both"
   },
   {
-   "id": "roast_3444456e",
+   "id": "roast_80134b37",
    "cat": "roast",
-   "text": "If incompetence generated electricity, you'd finally be up to code.",
+   "text": "If incompetence were a sport, you'd still get cut in training camp.",
    "mode": "both"
   },
   {
@@ -265,9 +265,9 @@
    "mode": "both"
   },
   {
-   "id": "roast_b84c7461",
+   "id": "roast_fe2d01d3",
    "cat": "roast",
-   "text": "You know exactly how electricity flows, and still, the only thing you conduct is disappointment.",
+   "text": "You're a TED talk given by a raccoon who found a microphone in the trash. Confident. Unprepared. Covered in yogurt.",
    "mode": "both"
   },
   {
@@ -409,9 +409,9 @@
    "mode": "both"
   },
   {
-   "id": "roast_90bf520f",
+   "id": "roast_5540aa99",
    "cat": "roast",
-   "text": "You've watched more tutorials than an entire trade school, and you still click the first result like a newborn deer clicking a phishing link.",
+   "text": "You've watched more tutorials than an entire film school, and you still click the first result like a newborn deer clicking a phishing link.",
    "mode": "both"
   },
   {
@@ -421,9 +421,9 @@
    "mode": "both"
   },
   {
-   "id": "roast_5cd81318",
+   "id": "roast_1c278488",
    "cat": "roast",
-   "text": "You are a licensed electrician, and a cartoon dragon is bullying you on your own computer. Let that sink in.",
+   "text": "You are a full-grown man, and a cartoon dragon is bullying you on your own computer. Let that sink in.",
    "mode": "both"
   },
   {
@@ -487,9 +487,9 @@
    "mode": "both"
   },
   {
-   "id": "roast_b9a0cece",
+   "id": "roast_720a6ff4",
    "cat": "roast",
-   "text": "You have the emotional range of a GFCI outlet. Fine. Fine. Fine. Click. Dead.",
+   "text": "You have the emotional range of a parking meter. Fine. Fine. Fine. Expired. Ticket.",
    "mode": "both"
   },
   {
@@ -583,9 +583,9 @@
    "mode": "vulgar"
   },
   {
-   "id": "roast_a2a47ef8",
+   "id": "roast_6a911305",
    "cat": "roast",
-   "text": "You're not a disaster, Troy. A disaster gets news coverage. You're a shitty little inconvenience with a power cord.",
+   "text": "You're not a disaster, Troy. A disaster gets news coverage. You're a shitty little inconvenience with a Wi-Fi password.",
    "mode": "vulgar"
   },
   {
@@ -619,9 +619,9 @@
    "mode": "both"
   },
   {
-   "id": "roast_92942eec",
+   "id": "roast_af2643b6",
    "cat": "roast",
-   "text": "If stupidity were a renewable energy source, you'd power the entire fucking West Coast and still have leftovers.",
+   "text": "If stupidity were frequent-flyer miles, you could fly first class to the fucking Moon and still have points left for a neck pillow.",
    "mode": "vulgar"
   },
   {
@@ -667,9 +667,9 @@
    "mode": "both"
   },
   {
-   "id": "rant_5a01156c",
+   "id": "rant_d65d5046",
    "cat": "rant",
-   "text": "Let me tell you something about copper, Troy. Every time you twist a wire nut, a man in a much nicer house than yours gets a little richer. Big Wire Nut. Orange, yellow, red. You think the colors are about wire gauge? They're a caste system. The copper price isn't set by markets. It's set in a basement in Ohio by guys in short-sleeve dress shirts, and they laugh at you. They laugh at electricians. Every. Single. Quarter.",
+   "text": "Why does Portland have so many bridges? Twelve bridges. For one river. Nobody needs twelve bridges. Unless they're not for crossing. They're for watching. Every bridge is a checkpoint. They count the cars, they count the bikes, they count the guy carrying a canoe on foot for no reason. And the fog? The fog isn't weather, Troy. It's a privacy screen. For them. Never for you.",
    "mode": "both"
   },
   {
@@ -775,9 +775,9 @@
    "mode": "both"
   },
   {
-   "id": "rant_6463936f",
+   "id": "rant_6cdf7efa",
    "cat": "rant",
-   "text": "Here's physics they don't teach you in trade school. Take an aluminum can. Twist it. Wring it like a dishrag. See how it spirals? That's space-time, Troy. That's a torsion field. Twist hard enough and you get free energy. And who would hate free energy? The power company. Your employer. Why do you think they keep you busy with real wiring? So you never ask about the fake wiring. The beautiful, forbidden fake wiring.",
+   "text": "Here's physics they don't teach you in school. Take an aluminum can. Twist it. Wring it like a dishrag. See how it spirals? That's space-time, Troy. That's a torsion field. Twist hard enough and you get free energy. And who would hate free energy? Everyone who sends you a bill. Why do you think every soda can has a little tab? It's a safety. Pop it wrong and you open a door straight to the Cosmic War. Recycle carefully.",
    "mode": "both"
   },
   {
@@ -799,15 +799,15 @@
    "mode": "both"
   },
   {
-   "id": "rant_9daac6a3",
+   "id": "rant_9303ff95",
    "cat": "rant",
-   "text": "Here's what they don't tell you. Electricians are a priesthood. You know the secret. You know nobody really understands electricity. It's tiny invisible guys running in a circle because a magnet yelled at them. And you keep the secret, because if people found out, they'd stop paying you two hundred dollars to flip a breaker. I respect it. Honestly. It's a beautiful racket.",
+   "text": "Portland food carts. Have you ever seen one move? Never. They have wheels, Troy. Wheels! Why would something with wheels never move? Because it's not a kitchen. It's a listening post. Every pod is arranged in a perfect square, facing inward, like a council. The guy selling eighteen-dollar dumplings knows your name, your order, and your search history. And the line is long on purpose. It keeps you standing still while they scan you.",
    "mode": "both"
   },
   {
-   "id": "rant_af5c5cdc",
+   "id": "rant_811385e1",
    "cat": "rant",
-   "text": "You ever look at the Moon? Really look? Too round. Too perfect. Shows the same face every night like a guard. That's not a rock, Troy. That's a decommissioned battle station from the Cosmic War. And Mars? Pyramids. Big ones. Same blueprints as Giza. Same contractor. Probably over budget. Probably still arguing about the permit. Some things are universal.",
+   "text": "You ever look at the Moon? Really look? Too round. Too perfect. Shows the same face every night like a guard. That's not a rock, Troy. That's a decommissioned battle station from the Cosmic War. And Mars? Pyramids. Big ones. Same blueprints as Giza. Same architect. Probably over budget. Probably still arguing with the homeowners association. Some things are universal.",
    "mode": "both"
   },
   {
@@ -817,9 +817,9 @@
    "mode": "both"
   },
   {
-   "id": "rant_040ec9d5",
+   "id": "rant_604007eb",
    "cat": "rant",
-   "text": "Your fantasy app is rigged. Of course it's rigged. Every week, the projections say your guy's gonna score twenty. Then he gets three points and a hamstring. You think that's random? It's engagement, Troy. They need you angry. Angry men refresh. Angry men buy the premium tier. You're not a manager. You're a lab rat with a waiver wire.",
+   "text": "Your fantasy app is rigged. Of course it's rigged. Every week, the projections say your guy's gonna score twenty. Then he gets three points and a hamstring. You think that's random? It's engagement, Troy. They need you angry. Angry men refresh. Angry men buy the premium tier. You're not a manager. You're a lab rat with a waiver list.",
    "mode": "both"
   },
   {
@@ -1069,9 +1069,9 @@
    "mode": "both"
   },
   {
-   "id": "greet_night_d4123b7e",
+   "id": "greet_night_133c211a",
    "cat": "greet_night",
-   "text": "Ah, nightfall. When dragons hunt and electricians doomscroll.",
+   "text": "Ah, nightfall. When dragons hunt and grown men doomscroll.",
    "mode": "both"
   },
   {
@@ -1159,9 +1159,9 @@
    "mode": "clean_only"
   },
   {
-   "id": "roast_08b83b6c",
+   "id": "roast_a04d6ff1",
    "cat": "roast",
-   "text": "You're a fine electrician, Troy. A fine, fine electrician. That's my nice line for the year. It's used up.",
+   "text": "You're a decent human being, Troy. Mostly. That's my nice line for the year. It's used up.",
    "mode": "clean_only"
   },
   {
@@ -1215,15 +1215,15 @@
    "mode": "vulgar"
   },
   {
-   "id": "roast_9e06b40c",
+   "id": "roast_ea96eb32",
    "cat": "roast",
-   "text": "You're an electrician. You make a living by not touching the wrong wire. Then you come home and touch every wrong wire in Linux. For fun.",
-   "mode": "both"
+   "text": "You are a human hold-music loop. Nobody chose you, nobody can escape you, and every eight seconds you remind us our call is fucking important.",
+   "mode": "vulgar"
   },
   {
-   "id": "roast_1b12a151",
+   "id": "roast_2adaaf9d",
    "cat": "roast",
-   "text": "You fix other people's wiring all day, and your own laptop still can't find the Wi-Fi. That's a dentist with a mouth full of gravel.",
+   "text": "Portland built an entire personality out of being weird, and you still managed to be the most boring thing in it. That's an achievement. A sad, damp achievement.",
    "mode": "both"
   },
   {
@@ -1263,15 +1263,15 @@
    "mode": "vulgar"
   },
   {
-   "id": "roast_488ce909",
+   "id": "roast_ae1d4a78",
    "cat": "roast",
-   "text": "You have the charisma of a wet extension cord, and twice the shock hazard.",
+   "text": "You have the charisma of a wet paper straw, and half the structural integrity.",
    "mode": "both"
   },
   {
-   "id": "roast_3444456e",
+   "id": "roast_80134b37",
    "cat": "roast",
-   "text": "If incompetence generated electricity, you'd finally be up to code.",
+   "text": "If incompetence were a sport, you'd still get cut in training camp.",
    "mode": "both"
   },
   {
@@ -1449,9 +1449,9 @@
    "mode": "both"
   },
   {
-   "id": "roast_b84c7461",
+   "id": "roast_fe2d01d3",
    "cat": "roast",
-   "text": "You know exactly how electricity flows, and still, the only thing you conduct is disappointment.",
+   "text": "You're a TED talk given by a raccoon who found a microphone in the trash. Confident. Unprepared. Covered in yogurt.",
    "mode": "both"
   },
   {
@@ -1593,9 +1593,9 @@
    "mode": "both"
   },
   {
-   "id": "roast_90bf520f",
+   "id": "roast_5540aa99",
    "cat": "roast",
-   "text": "You've watched more tutorials than an entire trade school, and you still click the first result like a newborn deer clicking a phishing link.",
+   "text": "You've watched more tutorials than an entire film school, and you still click the first result like a newborn deer clicking a phishing link.",
    "mode": "both"
   },
   {
@@ -1605,9 +1605,9 @@
    "mode": "both"
   },
   {
-   "id": "roast_6bc46caf",
+   "id": "roast_df8d77c6",
    "cat": "roast",
-   "text": "You are a licensed electrician, and a cartoon goblin is bullying you on your own computer. Let that sink in.",
+   "text": "You are a full-grown man, and a cartoon goblin is bullying you on your own computer. Let that sink in.",
    "mode": "both"
   },
   {
@@ -1671,9 +1671,9 @@
    "mode": "both"
   },
   {
-   "id": "roast_b9a0cece",
+   "id": "roast_720a6ff4",
    "cat": "roast",
-   "text": "You have the emotional range of a GFCI outlet. Fine. Fine. Fine. Click. Dead.",
+   "text": "You have the emotional range of a parking meter. Fine. Fine. Fine. Expired. Ticket.",
    "mode": "both"
   },
   {
@@ -1767,9 +1767,9 @@
    "mode": "vulgar"
   },
   {
-   "id": "roast_a2a47ef8",
+   "id": "roast_6a911305",
    "cat": "roast",
-   "text": "You're not a disaster, Troy. A disaster gets news coverage. You're a shitty little inconvenience with a power cord.",
+   "text": "You're not a disaster, Troy. A disaster gets news coverage. You're a shitty little inconvenience with a Wi-Fi password.",
    "mode": "vulgar"
   },
   {
@@ -1803,9 +1803,9 @@
    "mode": "both"
   },
   {
-   "id": "roast_92942eec",
+   "id": "roast_af2643b6",
    "cat": "roast",
-   "text": "If stupidity were a renewable energy source, you'd power the entire fucking West Coast and still have leftovers.",
+   "text": "If stupidity were frequent-flyer miles, you could fly first class to the fucking Moon and still have points left for a neck pillow.",
    "mode": "vulgar"
   },
   {
@@ -1851,9 +1851,9 @@
    "mode": "both"
   },
   {
-   "id": "rant_5a01156c",
+   "id": "rant_d65d5046",
    "cat": "rant",
-   "text": "Let me tell you something about copper, Troy. Every time you twist a wire nut, a man in a much nicer house than yours gets a little richer. Big Wire Nut. Orange, yellow, red. You think the colors are about wire gauge? They're a caste system. The copper price isn't set by markets. It's set in a basement in Ohio by guys in short-sleeve dress shirts, and they laugh at you. They laugh at electricians. Every. Single. Quarter.",
+   "text": "Why does Portland have so many bridges? Twelve bridges. For one river. Nobody needs twelve bridges. Unless they're not for crossing. They're for watching. Every bridge is a checkpoint. They count the cars, they count the bikes, they count the guy carrying a canoe on foot for no reason. And the fog? The fog isn't weather, Troy. It's a privacy screen. For them. Never for you.",
    "mode": "both"
   },
   {
@@ -1959,9 +1959,9 @@
    "mode": "both"
   },
   {
-   "id": "rant_6463936f",
+   "id": "rant_6cdf7efa",
    "cat": "rant",
-   "text": "Here's physics they don't teach you in trade school. Take an aluminum can. Twist it. Wring it like a dishrag. See how it spirals? That's space-time, Troy. That's a torsion field. Twist hard enough and you get free energy. And who would hate free energy? The power company. Your employer. Why do you think they keep you busy with real wiring? So you never ask about the fake wiring. The beautiful, forbidden fake wiring.",
+   "text": "Here's physics they don't teach you in school. Take an aluminum can. Twist it. Wring it like a dishrag. See how it spirals? That's space-time, Troy. That's a torsion field. Twist hard enough and you get free energy. And who would hate free energy? Everyone who sends you a bill. Why do you think every soda can has a little tab? It's a safety. Pop it wrong and you open a door straight to the Cosmic War. Recycle carefully.",
    "mode": "both"
   },
   {
@@ -1983,15 +1983,15 @@
    "mode": "both"
   },
   {
-   "id": "rant_9daac6a3",
+   "id": "rant_9303ff95",
    "cat": "rant",
-   "text": "Here's what they don't tell you. Electricians are a priesthood. You know the secret. You know nobody really understands electricity. It's tiny invisible guys running in a circle because a magnet yelled at them. And you keep the secret, because if people found out, they'd stop paying you two hundred dollars to flip a breaker. I respect it. Honestly. It's a beautiful racket.",
+   "text": "Portland food carts. Have you ever seen one move? Never. They have wheels, Troy. Wheels! Why would something with wheels never move? Because it's not a kitchen. It's a listening post. Every pod is arranged in a perfect square, facing inward, like a council. The guy selling eighteen-dollar dumplings knows your name, your order, and your search history. And the line is long on purpose. It keeps you standing still while they scan you.",
    "mode": "both"
   },
   {
-   "id": "rant_af5c5cdc",
+   "id": "rant_811385e1",
    "cat": "rant",
-   "text": "You ever look at the Moon? Really look? Too round. Too perfect. Shows the same face every night like a guard. That's not a rock, Troy. That's a decommissioned battle station from the Cosmic War. And Mars? Pyramids. Big ones. Same blueprints as Giza. Same contractor. Probably over budget. Probably still arguing about the permit. Some things are universal.",
+   "text": "You ever look at the Moon? Really look? Too round. Too perfect. Shows the same face every night like a guard. That's not a rock, Troy. That's a decommissioned battle station from the Cosmic War. And Mars? Pyramids. Big ones. Same blueprints as Giza. Same architect. Probably over budget. Probably still arguing with the homeowners association. Some things are universal.",
    "mode": "both"
   },
   {
@@ -2001,9 +2001,9 @@
    "mode": "both"
   },
   {
-   "id": "rant_040ec9d5",
+   "id": "rant_604007eb",
    "cat": "rant",
-   "text": "Your fantasy app is rigged. Of course it's rigged. Every week, the projections say your guy's gonna score twenty. Then he gets three points and a hamstring. You think that's random? It's engagement, Troy. They need you angry. Angry men refresh. Angry men buy the premium tier. You're not a manager. You're a lab rat with a waiver wire.",
+   "text": "Your fantasy app is rigged. Of course it's rigged. Every week, the projections say your guy's gonna score twenty. Then he gets three points and a hamstring. You think that's random? It's engagement, Troy. They need you angry. Angry men refresh. Angry men buy the premium tier. You're not a manager. You're a lab rat with a waiver list.",
    "mode": "both"
   },
   {
@@ -2253,9 +2253,9 @@
    "mode": "both"
   },
   {
-   "id": "greet_night_fd8cd4d9",
+   "id": "greet_night_742f7a35",
    "cat": "greet_night",
-   "text": "Ah, nightfall. When goblins hunt and electricians doomscroll.",
+   "text": "Ah, nightfall. When goblins hunt and grown men doomscroll.",
    "mode": "both"
   },
   {
@@ -2343,9 +2343,9 @@
    "mode": "clean_only"
   },
   {
-   "id": "roast_08b83b6c",
+   "id": "roast_a04d6ff1",
    "cat": "roast",
-   "text": "You're a fine electrician, Troy. A fine, fine electrician. That's my nice line for the year. It's used up.",
+   "text": "You're a decent human being, Troy. Mostly. That's my nice line for the year. It's used up.",
    "mode": "clean_only"
   },
   {

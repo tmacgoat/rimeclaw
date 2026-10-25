@@ -44,7 +44,8 @@ for pet in pets:
     keep=set()
     for ln in LINES[pet]:
         out=os.path.join(od,ln['id']+'.ogg'); keep.add(os.path.basename(out))
-        post(ln['_raw'],out,cfg); idx[ln['id']]=round(dur(out),2)
+        if not os.path.exists(out) or os.environ.get('FORCE'): post(ln['_raw'],out,cfg); print('rendered',pet,ln['id'])
+        idx[ln['id']]=round(dur(out),2)
     for f in os.listdir(od):
         if f.endswith('.ogg') and f not in keep: os.remove(os.path.join(od,f))
     json.dump({'voice':{k:cfg[k] for k in cfg if k!='post'},'durations':idx},open(os.path.join(od,'index.json'),'w'),indent=0)
