@@ -1,6 +1,6 @@
 # Rimeclaw line set. American English. Original material only.
 # Rules: no slurs; nothing about race, religion, sexuality, disability; no sexual content about real people;
-# no ball games, teams or leagues of any kind; no factual accusations against real people; no quotes/impersonations.
+# no ball games or teams of any kind; no factual accusations against real people; no quotes/impersonations.
 
 ROASTS = [
 "Troy. You run Linux on a 2017 MacBook. That's not a computer. That's a hostage situation with a fan.",
